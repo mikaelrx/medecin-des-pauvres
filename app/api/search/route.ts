@@ -126,7 +126,7 @@ export async function GET(request: NextRequest) {
       )
     : normalized;
 
-  const threshold = 15;
+  const threshold = 45;
   const results = filtered
     .filter((r) => r.pct >= threshold)
     .slice(0, 5)
