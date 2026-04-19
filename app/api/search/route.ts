@@ -1,85 +1,90 @@
 import { NextRequest, NextResponse } from "next/server";
-import { pipeline, env } from "@xenova/transformers";
 import remediesData from "@/data/remedies.json";
-import embeddingsData from "@/data/embeddings.json";
 import type { Remedy } from "@/types/remedy";
 import { normalize } from "@/lib/normalize";
 
-env.cacheDir = "/tmp/transformers-cache";
-
-type Extractor = Awaited<ReturnType<typeof pipeline>>;
-let extractor: Extractor | null = null;
-
-async function getExtractor(): Promise<Extractor> {
-  if (!extractor) {
-    extractor = await pipeline(
-      "feature-extraction",
-      "Xenova/paraphrase-multilingual-MiniLM-L12-v2"
-    );
-  }
-  return extractor;
-}
-
-function cosineSimilarity(a: number[], b: number[]): number {
-  let dot = 0;
-  for (let i = 0; i < a.length; i++) dot += a[i] * b[i];
-  return dot;
-}
-
 const remedies = (remediesData as Remedy[]).map((r, i) => ({ ...r, id: i }));
-const embeddings = embeddingsData as { id: number; embedding: number[] }[];
+
+// Build BM25 index at module load
+const K1 = 1.5;
+const B = 0.75;
+
+function tokenize(text: string): string[] {
+  return normalize(text)
+    .toLowerCase()
+    .split(/[\s,.\-;:()/]+/)
+    .filter((t) => t.length > 1);
+}
+
+function remedyText(r: Remedy): string {
+  return [r.remede, ...(r.symptomes ?? []), r.description ?? "", r.preparation ?? ""].join(" ");
+}
+
+const corpus = remedies.map((r) => tokenize(remedyText(r)));
+const avgLen = corpus.reduce((s, d) => s + d.length, 0) / corpus.length;
+
+const idf: Record<string, number> = {};
+for (const doc of corpus) {
+  const seen = new Set(doc);
+  for (const t of seen) {
+    idf[t] = (idf[t] ?? 0) + 1;
+  }
+}
+const N = corpus.length;
+for (const t in idf) {
+  idf[t] = Math.log((N - idf[t] + 0.5) / (idf[t] + 0.5) + 1);
+}
+
+function bm25Score(docTokens: string[], queryTokens: string[]): number {
+  const freq: Record<string, number> = {};
+  for (const t of docTokens) freq[t] = (freq[t] ?? 0) + 1;
+  const dl = docTokens.length;
+  let score = 0;
+  for (const qt of queryTokens) {
+    if (!(qt in idf)) continue;
+    const tf = freq[qt] ?? 0;
+    score += idf[qt] * ((tf * (K1 + 1)) / (tf + K1 * (1 - B + B * (dl / avgLen))));
+  }
+  return score;
+}
 
 export async function GET(request: NextRequest) {
   const query = request.nextUrl.searchParams.get("q");
   const categorie = request.nextUrl.searchParams.get("categorie");
   if (!query || query.trim().length < 2) return NextResponse.json({ results: [], suggestions: [] });
 
-  const ext = await getExtractor();
-  const embed = (text: string) =>
-    (ext as (text: string, opts: object) => Promise<{ data: Float32Array }>)(
-      text,
-      { pooling: "mean", normalize: true }
-    ).then((o) => Array.from(o.data));
+  const queryTokens = tokenize(query.trim());
+  if (queryTokens.length === 0) return NextResponse.json({ results: [], suggestions: [] });
 
-  const raw = query.trim();
-  const stripped = normalize(raw);
-  const [embRaw, embStripped] = await Promise.all([embed(raw), embed(stripped)]);
-
-  const hasAccents = raw !== stripped;
-  const threshold = hasAccents ? 0.50 : 0.35;
-
-  const queryWords = stripped.toLowerCase().split(/\s+/).filter((w) => w.length > 2);
-
-  const scored = embeddings.map((e) => {
-    const r = remedies[e.id];
-    const semanticScore = Math.max(
-      cosineSimilarity(embRaw, e.embedding),
-      cosineSimilarity(embStripped, e.embedding)
-    );
-    // Boost lexical si un mot de la requête apparaît dans le remède
-    const remedyText = [r.remede, ...(r.symptomes ?? []), r.description ?? ""]
-      .join(" ")
-      .toLowerCase();
-    const lexicalBoost = queryWords.some((w) => remedyText.includes(w)) ? 0.15 : 0;
-    return { remedy: r, score: Math.min(1, semanticScore + lexicalBoost) };
-  });
+  const scored = corpus.map((docTokens, i) => ({
+    remedy: remedies[i],
+    score: bm25Score(docTokens, queryTokens),
+  }));
 
   scored.sort((a, b) => b.score - a.score);
 
+  const maxScore = scored[0]?.score ?? 1;
+  const normalized = scored.map((s) => ({
+    ...s,
+    pct: maxScore > 0 ? Math.round((s.score / maxScore) * 100) : 0,
+  }));
+
   const filtered = categorie
-    ? scored.filter((r) => r.remedy.categories?.includes(categorie) ?? r.remedy.categorie === categorie)
-    : scored;
+    ? normalized.filter(
+        (r) => r.remedy.categories?.includes(categorie) ?? r.remedy.categorie === categorie
+      )
+    : normalized;
 
+  const threshold = 15; // % du meilleur score
   const results = filtered
-    .filter((r) => r.score > threshold)
+    .filter((r) => r.pct >= threshold)
     .slice(0, 5)
-    .map((r) => ({ ...r.remedy, pertinence: Math.round(r.score * 100) }));
+    .map((r) => ({ ...r.remedy, pertinence: r.pct }));
 
-  const suggestions = results.length === 0
-    ? filtered
-        .slice(0, 3)
-        .map((r) => ({ ...r.remedy, pertinence: Math.round(r.score * 100) }))
-    : [];
+  const suggestions =
+    results.length === 0
+      ? filtered.slice(0, 3).map((r) => ({ ...r.remedy, pertinence: r.pct }))
+      : [];
 
   return NextResponse.json({ results, suggestions });
 }
