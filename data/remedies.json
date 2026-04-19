@@ -3190,5 +3190,129 @@
       "Douleurs",
       "Fièvre & Infections"
     ]
+  },
+  {
+    "remede": "Aloès",
+    "symptomes": [
+      "constipation",
+      "purgatif",
+      "laxatif"
+    ],
+    "description": "Originaire d'Afrique. Plante purgative, mais à éviter en usage régulier car elle prédispose aux hémorroïdes et aux troubles menstruels. Contraire dans les irritations et maladies de la vessie.",
+    "preparation": "Usage interne déconseillé en automédication. Préférer d'autres purgatifs naturels comme le frêne ou la rhubarbe.",
+    "avertissement": "L'aloès congestionne les vaisseaux hémorroïdaux et la matrice chez la femme. Ne pas utiliser en cas d'hémorroïdes, grossesse ou irritation de la vessie.",
+    "categorie": "Digestion",
+    "categories": [
+      "Digestion"
+    ]
+  },
+  {
+    "remede": "Ciguë (plante toxique)",
+    "symptomes": [
+      "plante vénéneuse",
+      "identification"
+    ],
+    "description": "Petite ou grande, la ciguë est un poison très violent. Elle est d'autant plus dangereuse que beaucoup de personnes la confondent avec le persil ou le cerfeuil. Pour ne jamais se tromper : écraser quelques feuilles et sentir — le persil et le cerfeuil sont agréables, la ciguë est nauséabonde.",
+    "preparation": "Aucune préparation. Plante toxique à ne jamais consommer.",
+    "avertissement": "POISON VIOLENT. Ne jamais utiliser. Risque de confusion mortelle avec le persil ou le cerfeuil.",
+    "categorie": "Premiers secours",
+    "categories": [
+      "Premiers secours"
+    ]
+  },
+  {
+    "remede": "Digitale pourprée (plante toxique)",
+    "symptomes": [
+      "palpitations",
+      "battements de coeur",
+      "hydropisie"
+    ],
+    "description": "Employée jadis dans les palpitations, les battements de cœur et l'hydropisie. Cependant c'est un poison tellement violent que le Dr Beauvillard conseille vivement de ne jamais en prendre sans ordonnance médicale.",
+    "preparation": "Usage strictement médical et sous surveillance d'un médecin expérimenté uniquement.",
+    "avertissement": "POISON VIOLENT. Ne jamais utiliser en automédication. Usage exclusivement médical.",
+    "categorie": "Circulation & Cœur",
+    "categories": [
+      "Circulation & Cœur"
+    ]
+  },
+  {
+    "remede": "Hoquet (traitement)",
+    "symptomes": [
+      "hoquet",
+      "spasme du diaphragme",
+      "troubles digestifs"
+    ],
+    "description": "Le hoquet est une contraction spasmodique du muscle diaphragme causée par des troubles digestifs ; il dénote généralement une inflammation de l'estomac.",
+    "preparation": "Plusieurs remèdes : boire lentement, se boucher les oreilles, avoir peur (surprise), ou — le plus simple et le plus efficace — éternuer en aspirant une pincée de tabac à priser ou de poivre.",
+    "categorie": "Digestion",
+    "categories": [
+      "Digestion"
+    ]
+  },
+  {
+    "remede": "Panaris et mal d'aventure",
+    "symptomes": [
+      "panaris",
+      "mal d'aventure",
+      "furoncle au doigt",
+      "abcès du doigt",
+      "gonflement du doigt"
+    ],
+    "description": "Le panaris est une tumeur douloureuse qui se développe sur le doigt, avec douleur vive, démangeaison et gonflement luisant. Il faut retirer immédiatement les bagues du doigt pour éviter la gangrène.",
+    "preparation": "Au début : enfoncer le doigt dans un œuf de poule frais (bout coupé) et attacher avec un foulard. L'œuf est cuit par la chaleur en quelques heures et le panaris n'a pas de suites. Autre remède : tremper le doigt dans de l'alcool camphré — la douleur cesse en quelques minutes.",
+    "avertissement": "Retirer immédiatement les bagues du doigt malade. En cas de gangrène ou d'aggravation, consulter un médecin d'urgence.",
+    "categorie": "Premiers secours",
+    "categories": [
+      "Premiers secours",
+      "Peau"
+    ]
+  },
+  {
+    "remede": "Destruction des rats et souris",
+    "symptomes": [
+      "invasion de rats",
+      "invasion de souris",
+      "rongeurs"
+    ],
+    "description": "Recette simple et efficace pour éliminer les rats et souris sans poison dangereux.",
+    "preparation": "Étendre du plâtre en poudre très fine sur une assiette, puis saupoudrer d'une légère couche de farine. Placer à côté une assiette d'eau. Les rats, attirés par la farine, absorbent du plâtre ; en buvant ensuite, le plâtre se gonfle et les élimine. Les feuilles de rue fétide semées dans les greniers chassent également les rats.",
+    "categorie": "Hygiène & Divers",
+    "categories": [
+      "Hygiène & Divers"
+    ]
+  },
+  {
+    "remede": "Destruction des limaces",
+    "symptomes": [
+      "limaces",
+      "invasion de limaces",
+      "jardin envahi",
+      "vers du jardin"
+    ],
+    "description": "Méthode naturelle pour protéger les potagers et jardins des limaces sans produits chimiques.",
+    "preparation": "Entourer les carrés du potager d'une bordure de sciure de bois : les limaces ne franchissent jamais ce rempart. Pour les vers du jardin : arroser avec de l'eau fortement salée, ou mieux avec une décoction de feuilles de noyer — les vers sortent de terre et crèvent.",
+    "categorie": "Hygiène & Divers",
+    "categories": [
+      "Hygiène & Divers"
+    ]
+  },
+  {
+    "remede": "Thym",
+    "symptomes": [
+      "toux",
+      "bronchite",
+      "digestion difficile",
+      "vers intestinaux",
+      "infection",
+      "maux de gorge"
+    ],
+    "description": "Le thym (Thymus vulgaris) est une plante aromatique aux puissantes propriétés antiseptiques, expectorantes et digestives. Cousin du serpolet, très employé dans les affections respiratoires et les troubles digestifs.",
+    "preparation": "Infusion : 15 à 20 grammes de sommités fleuries par litre d'eau bouillante, laisser infuser 10 minutes. Boire 2 à 3 tasses par jour. En gargarisme pour les maux de gorge. En cuisine comme condiment digestif.",
+    "categorie": "Respiratoire",
+    "categories": [
+      "Respiratoire",
+      "Digestion",
+      "Fièvre & Infections"
+    ]
   }
 ]
