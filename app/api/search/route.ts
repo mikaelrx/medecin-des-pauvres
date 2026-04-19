@@ -46,15 +46,23 @@ export async function GET(request: NextRequest) {
   const [embRaw, embStripped] = await Promise.all([embed(raw), embed(stripped)]);
 
   const hasAccents = raw !== stripped;
-  const threshold = hasAccents ? 0.55 : 0.42;
+  const threshold = hasAccents ? 0.50 : 0.35;
 
-  const scored = embeddings.map((e) => ({
-    remedy: remedies[e.id],
-    score: Math.max(
+  const queryWords = stripped.toLowerCase().split(/\s+/).filter((w) => w.length > 2);
+
+  const scored = embeddings.map((e) => {
+    const r = remedies[e.id];
+    const semanticScore = Math.max(
       cosineSimilarity(embRaw, e.embedding),
       cosineSimilarity(embStripped, e.embedding)
-    ),
-  }));
+    );
+    // Boost lexical si un mot de la requête apparaît dans le remède
+    const remedyText = [r.remede, ...(r.symptomes ?? []), r.description ?? ""]
+      .join(" ")
+      .toLowerCase();
+    const lexicalBoost = queryWords.some((w) => remedyText.includes(w)) ? 0.15 : 0;
+    return { remedy: r, score: Math.min(1, semanticScore + lexicalBoost) };
+  });
 
   scored.sort((a, b) => b.score - a.score);
 
