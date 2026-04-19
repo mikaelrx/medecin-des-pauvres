@@ -1,0 +1,2152 @@
+[
+  {
+    "remede": "Absinthe",
+    "symptomes": [
+      "manque d'appétit",
+      "mauvaise digestion",
+      "vers intestinaux",
+      "fièvre"
+    ],
+    "description": "Plante apéritive, digestive, fébrifuge et vermifuge. Poussant dans des endroits secs et incultes, son usage modéré est recommandé, mais l'abus produit des désordres graves et peut engendrer la folie.",
+    "preparation": "Infusion : 15 grammes par litre d'eau. Vin d'absinthe : mettre 50 grammes de sommités fleuries dans une bouteille de bon vin blanc, laisser infuser 4 jours, puis filtrer. Un petit verre avant le repas (apéritif), un après (digestif), un le matin (vermifuge)."
+  },
+  {
+    "remede": "Aconit",
+    "symptomes": [
+      "bronchites",
+      "enrouements"
+    ],
+    "description": "Poison très violent. Seuls les médecins peuvent l'employer dans les bronchites et les enrouements. Ne pas laisser à portée des enfants. En cas d'empoisonnement, recourir aux vomitifs.",
+    "preparation": "Réservé aux médecins uniquement. Ne jamais s'en servir sans ordonnance."
+  },
+  {
+    "remede": "Aigremoine",
+    "symptomes": [
+      "incontinence d'urine",
+      "dysenterie",
+      "plaies",
+      "ulcères de la bouche",
+      "asthme",
+      "maladies du foie",
+      "crachements de sang",
+      "vomissements de sang"
+    ],
+    "description": "Plante des bords de chemins et prairies. En infusion contre les incontinences d'urine et la dysenterie ; en tisane pour laver les plaies et faire revenir les chairs ; en gargarisme avec du miel contre les ulcères de la bouche et du gosier. Conseillée en guise de thé pour l'asthme.",
+    "preparation": "Infusion : faire bouillir dans 2 litres d'eau, un grand verre matin, midi et soir. En gargarisme : ajouter un peu de miel à la tisane."
+  },
+  {
+    "remede": "Ail",
+    "symptomes": [
+      "vers intestinaux",
+      "fièvre",
+      "hydropisie",
+      "calculs rénaux (pierre)"
+    ],
+    "description": "Plante vermifuge, fébrifuge, stimulante et excitante. Ne convient pas aux personnes atteintes de maladies de peau. Les nourrices doivent l'éviter car il altère le lait. Cuit dans du lait, il guérirait la pierre.",
+    "preparation": "Comme fébrifuge : une gousse le matin et le soir pendant cinq jours. Cuit dans du lait pour la pierre."
+  },
+  {
+    "remede": "Airelle (Myrtille)",
+    "symptomes": [
+      "dysenterie",
+      "diarrhée chronique"
+    ],
+    "description": "Fruit des terrains secs et arides. Les fruits arrivés à complète maturité sont succulents et guérissent la dysenterie et les diarrhées chroniques.",
+    "preparation": "Manger les fruits frais et en grande quantité."
+  },
+  {
+    "remede": "Angélique",
+    "symptomes": [
+      "fièvres intermittentes",
+      "chlorose",
+      "faiblesse digestive",
+      "vomissements spasmodiques",
+      "maux de tête nerveux",
+      "bronchites",
+      "goutte",
+      "scorbut",
+      "scrofule",
+      "coliques venteuses"
+    ],
+    "description": "Plante des montagnes. Mangée crue ou cuite, elle facilite la digestion des aliments gras. Tonique général des organes digestifs. Une bonne tasse après le repas fait disparaître les langueurs d'estomac.",
+    "preparation": "Infusion : 25 grammes de racines ou tiges pour un litre d'eau. Boire une tasse après chaque repas. Préférer les racines à toute autre partie de la plante."
+  },
+  {
+    "remede": "Anis vert",
+    "symptomes": [
+      "coliques venteuses",
+      "manque de lait (nourrices)",
+      "tranchées des enfants",
+      "digestion difficile"
+    ],
+    "description": "Cultivé principalement en Touraine. Les semences fortifient l'estomac, guérissent les coliques venteuses et augmentent le lait des nourrices.",
+    "preparation": "Décoction : 10 à 15 grammes de semences bouillies dans un litre d'eau pendant 10 minutes. Trois verres par jour à jeun. Pour les enfants : infuser 1 gramme de semences dans un verre de lait à jeun. Pour les nourrices : la mère boit l'infusion."
+  },
+  {
+    "remede": "Anis étoilé (Badiane)",
+    "symptomes": [
+      "digestion difficile",
+      "gaz intestinaux"
+    ],
+    "description": "Arbrisseau venant de Chine dont les semences ont les mêmes propriétés que l'anis vert.",
+    "preparation": "Liqueur d'anis : 40 grammes de semences concassées, 1 gramme de cannelle, 500 grammes de sucre, 1 litre d'eau-de-vie. Laisser macérer 5 à 6 semaines puis filtrer. Prendre après le repas pour faciliter l'expulsion des gaz."
+  },
+  {
+    "remede": "Argentine (Potentille)",
+    "symptomes": [
+      "diarrhée",
+      "dents douloureuses",
+      "gencives molles",
+      "hémorragie nasale",
+      "jaunisse",
+      "scorbut",
+      "hydropisie"
+    ],
+    "description": "Les feuilles et fleurs en infusion contre la diarrhée. La racine raffermit les gencives en la mâchant. Le suc des feuilles appliqué sur le front arrête l'hémorragie du nez.",
+    "preparation": "Infusion : 20 à 30 grammes pour un litre d'eau contre la diarrhée. Pour les gencives : mâcher un morceau de racine de temps en temps."
+  },
+  {
+    "remede": "Armoise",
+    "symptomes": [
+      "vertiges",
+      "défaillances",
+      "suppression des règles",
+      "névralgies",
+      "vomissements nerveux",
+      "épilepsie",
+      "hystérie"
+    ],
+    "description": "Très commune sur les bords des fossés et ruisseaux. En infusion contre les tournements de tête et les défaillances. Rappelle les règles quand elles ont été supprimées. La vapeur d'une forte infusion chaude dirigée sur les pieds aide à rappeler les règles.",
+    "preparation": "Infusion : 15 à 20 grammes pour un litre d'eau. Pour les règles supprimées : s'asseoir au-dessus d'un vase rempli d'une forte infusion très chaude le plus longtemps possible."
+  },
+  {
+    "remede": "Arnica",
+    "symptomes": [
+      "torpeur après blessure",
+      "congestions",
+      "épanchements de sang",
+      "coupures",
+      "écorchures"
+    ],
+    "description": "Plante des montagnes. En usage interne pour sortir le malade de la torpeur après une blessure grave. En usage externe (liniments), résolutif pour les épanchements de sang, coupures et écorchures.",
+    "preparation": "Usage interne : 15 grammes de fleurs ou feuilles infusées dans un litre d'eau, par petites tasses jusqu'à ce que la figure se colore. Usage externe : faire macérer dans l'alcool et appliquer en compresses sur les plaies."
+  },
+  {
+    "remede": "Asperge",
+    "symptomes": [
+      "maladies du cœur",
+      "engorgement de la rate",
+      "douleurs de reins",
+      "hydropisie",
+      "jaunisse",
+      "palpitations"
+    ],
+    "description": "Aliment sain et léger. Facilite les urines. Ordonnée dans les maladies de cœur, l'engorgement de la rate, les douleurs de reins et l'hydropisie. Des nombreuses personnes atteintes de palpitations ont été guéries avec cette tisane.",
+    "preparation": "Décoction : 50 grammes de racine dans un litre d'eau. Boire trois verres par jour à jeun."
+  },
+  {
+    "remede": "Bardane",
+    "symptomes": [
+      "rhumatismes chroniques",
+      "affections des poumons",
+      "maladies de peau",
+      "rougeole",
+      "goutte",
+      "gravelle (calculs)"
+    ],
+    "description": "Ses larges feuilles appliquées sur la poitrine remplacent l'emplâtre dans les vieux rhumes. Les feuilles cuites dans du lait enlèvent les douleurs ordinaires. Les racines sont dépuratives, sudorifiques et diurétiques.",
+    "preparation": "Pour les maladies de peau : laver avec une décoction de racine de bardane. Pour la rougeole : faire bouillir 25 grammes de racine 5 minutes dans un demi-litre d'eau, donner par cuillerées à café toutes les 5 minutes. Pour la goutte : décoction 120 grammes de racines dans 2 litres d'eau ou de bière pendant 5 minutes, boire le tout dans la journée à jeun."
+  },
+  {
+    "remede": "Bétoine officinale",
+    "symptomes": [
+      "affections des muqueuses",
+      "catarrhes"
+    ],
+    "description": "Longtemps considérée comme une panacée par les Grecs, ses propriétés sont moins étendues que cela. Néanmoins, dans les affections des muqueuses et les catarrhes, elle rend de grands services.",
+    "preparation": "Faire bouillir une bonne poignée dans un litre d'eau pendant 5 minutes, puis respirer la vapeur jusqu'à ce que la tisane soit froide. Réchauffer et recommencer 3 ou 4 fois."
+  },
+  {
+    "remede": "Bluet (Bleuet)",
+    "symptomes": [
+      "constipation",
+      "jaunisse",
+      "ophtalmie (inflammation des yeux)"
+    ],
+    "description": "Les graines sont purgatives. L'eau distillée de bluet est très estimée pour combattre l'ophtalmie.",
+    "preparation": "Comme purgatif : 2 grammes de graines dans un peu de miel. Pour la jaunisse : 4 grammes de graines avec du miel. Pour les yeux : utiliser l'eau distillée de bluet."
+  },
+  {
+    "remede": "Bouillon-blanc",
+    "symptomes": [
+      "hémorroïdes",
+      "clous (furoncles)",
+      "dartres",
+      "ulcères",
+      "varices",
+      "catarrhes",
+      "bronchites",
+      "crachements de sang",
+      "diarrhée muqueuse"
+    ],
+    "description": "Les feuilles cuites dans du lait calment les hémorroïdes, les clous, les dartres, les ulcères et les varices. La décoction de fleurs est un excellent expectorant très utile dans les catarrhes et bronchites.",
+    "preparation": "Feuilles dans du lait : trois verres par jour à jeun. Pour les hémorroïdes : appliquer les feuilles cuites en cataplasme. Pour la diarrhée muqueuse : trois verres par jour de décoction de feuilles, guérison au 3e jour."
+  },
+  {
+    "remede": "Bourrache",
+    "symptomes": [
+      "rhumatismes",
+      "fluxion de poitrine",
+      "maladies inflammatoires",
+      "fièvres éruptives (rougeole, scarlatine, petite vérole)"
+    ],
+    "description": "Plante adoucissante, sudorifique, diurétique. Employée dans les rhumatismes, les fluxions de poitrine, les fièvres éruptives.",
+    "preparation": "Décoction : 40 à 50 grammes pour un litre d'eau. La décoction mielleuse facilite l'expectoration."
+  },
+  {
+    "remede": "Bourse à pasteur",
+    "symptomes": [
+      "règles irrégulières",
+      "règles douloureuses",
+      "pissements de sang"
+    ],
+    "description": "Quand les règles sont trop ou pas assez abondantes, ou produisent de vives douleurs. Également pour les pissements de sang.",
+    "preparation": "Pour les règles : 50 grammes de bourse à pasteur et 50 grammes d'armoise dans un litre d'eau, bouillir 5 minutes, passer. Boire un grand verre dès les premières douleurs, puis un deuxième verre une heure après. Deux verres par jour pendant 4 jours. Pour les pissements de sang : un verre de décoction quelques minutes avant les 3 principaux repas."
+  },
+  {
+    "remede": "Bruyère",
+    "symptomes": [
+      "calculs de la vessie",
+      "rhumatismes",
+      "goutte",
+      "paralysie"
+    ],
+    "description": "L'infusion de ses sommités fleuries est diurétique. Les bains de décoction de bruyère soulagent les paralytiques, les goutteux et les rhumatisants.",
+    "preparation": "Infusion : 60 grammes par litre d'eau. Bains de décoction pour les paralytiques et rhumatisants."
+  },
+  {
+    "remede": "Bryone",
+    "symptomes": [
+      "douleurs de goutte",
+      "douleurs articulaires"
+    ],
+    "description": "Poison violent, son usage interne est très déconseillé. En usage externe seulement : la racine râpée et appliquée en cataplasme sur les douleurs de goutte les plus violentes les fait disparaître. Aussi utile dans les douleurs articulaires.",
+    "preparation": "Usage externe uniquement : râper la racine et appliquer en cataplasme sur la partie douloureuse."
+  },
+  {
+    "remede": "Camomille romaine",
+    "symptomes": [
+      "langueurs d'estomac",
+      "digestion difficile",
+      "gonflement du ventre",
+      "intestins paralysés",
+      "faiblesse",
+      "fièvre intermittente",
+      "douleurs rhumatismales",
+      "goutte",
+      "coliques",
+      "spasmes nerveux",
+      "hystérie"
+    ],
+    "description": "L'une des plus précieuses plantes médicinales. On emploie seulement les fleurs. La poudre des fleurs réduite en poudre remplace avantageusement le quinquina contre les fièvres. L'huile de camomille frictionne les douleurs rhumatismales.",
+    "preparation": "Infusion : 4 à 5 têtes pour un gros verre d'eau, en guise de thé après chaque repas. Pour les fièvres : 3 à 4 grammes de poudre de fleurs dans du miel ou de l'eau, en 3 ou 4 fois pendant l'intervalle des accès. Huile de camomille : 20 g de fleurs sèches, 100 g d'huile d'olive, chauffer au bain-marie 2 heures, filtrer, ajouter 10 g de camphre."
+  },
+  {
+    "remede": "Carotte",
+    "symptomes": [
+      "brûlures",
+      "dartres",
+      "panaris",
+      "furoncles",
+      "toux",
+      "rhume",
+      "asthme"
+    ],
+    "description": "Légume léger et de digestion facile. Râpée et employée en cataplasmes, elle calme les brûlures, les dartres, les panaris et les furoncles. En infusion avec du lait et du miel, elle guérit la toux et dégage les voies respiratoires.",
+    "preparation": "Cataplasme : carotte râpée appliquée directement. Infusion avec lait et miel : un grand verre matin et soir, au saut du lit et avant de se coucher."
+  },
+  {
+    "remede": "Centaurée (petite)",
+    "symptomes": [
+      "fièvres",
+      "pâles couleurs (anémie légère)",
+      "convalescence"
+    ],
+    "description": "Plante fébrifuge, vermifuge, tonique et stomachique. Les jeunes filles aux couleurs pâles et les convalescents souffreteux doivent en prendre avant chaque repas.",
+    "preparation": "Vin de centaurée : 60 grammes dans un litre de vin, tenir bien bouché et au frais. Un verre à bordeaux avant chaque repas."
+  },
+  {
+    "remede": "Cerfeuil",
+    "symptomes": [
+      "inflammation des yeux",
+      "hémorroïdes",
+      "dartres",
+      "mammelles engorgées",
+      "constipation opiniâtre"
+    ],
+    "description": "Plante excitante et diurétique. En décoction, guérit l'inflammation des yeux. Les feuilles cuites en cataplasmes calment les hémorroïdes.",
+    "preparation": "Pour les yeux : décoction, laver 3 fois par jour. Pour les seins engorgés : piler et appliquer en cataplasme. Pour la constipation : bouillon aux herbes avec cerfeuil, oseille, poirée, laitue avec beurre frais."
+  },
+  {
+    "remede": "Chêne (écorce)",
+    "symptomes": [
+      "règles trop abondantes",
+      "crachements de sang",
+      "selles mêlées de sang",
+      "hémorragies utérines",
+      "douleurs d'estomac"
+    ],
+    "description": "L'écorce du chêne est un astringent très fort. Efficace dans les règles trop abondantes, les crachements de sang et les hémorragies utérines. La décoction sucrée de poudre de glands prise après le repas guérit les douleurs d'estomac rebelles.",
+    "preparation": "3 grammes d'écorce de chêne avec un peu de miel ou de sirop, une fois par jour à jeun. Éviter de s'en servir comme gargarisme."
+  },
+  {
+    "remede": "Chicorée sauvage",
+    "symptomes": [
+      "constipation",
+      "fièvres",
+      "jaunisse",
+      "maladies digestives"
+    ],
+    "description": "Plante purgative, tonique et fébrifuge. On emploie les feuilles et la racine. Affermit les fibres relâchées de l'estomac, excite l'appétit, aide la digestion, purifie les conduits urinaires, facilite la transpiration.",
+    "preparation": "Employer les feuilles ou la racine en décoction, quantité selon les besoins."
+  },
+  {
+    "remede": "Chiendent",
+    "symptomes": [
+      "maladies inflammatoires",
+      "fièvre (rafraîchissant)"
+    ],
+    "description": "Plante employée dans toutes les maladies inflammatoires comme dépuratif. Peut être donné comme tisane générale dans toutes les maladies.",
+    "preparation": "Tisane commune : faire bouillir de l'orge et du chiendent dans l'eau, ajouter un peu de réglisse pour le goût. Tisane rafraîchissante ordonnée par les médecins pour les malades fiévreux."
+  },
+  {
+    "remede": "Consoude (grande)",
+    "symptomes": [
+      "brûlures",
+      "gerçures des seins",
+      "goutte",
+      "crachements de sang",
+      "blessures"
+    ],
+    "description": "La racine fraîche râpée et appliquée sur une brûlure en calme instantanément la douleur. Cazin conseille aux nourrices dont les seins sont gercés d'introduire le mamelon dans un trou creusé dans la racine pendant 24 heures. Chaumel l'emploie pour calmer les douleurs de la goutte.",
+    "preparation": "Brûlures et gerçures : râper la racine fraîche et appliquer directement. Pour la goutte : faire bouillir la racine et l'appliquer en cataplasme le plus chaudement possible."
+  },
+  {
+    "remede": "Coquelicot",
+    "symptomes": [
+      "rhumes",
+      "catarrhes pulmonaires",
+      "fièvres éruptives",
+      "transpiration insuffisante",
+      "diarrhée"
+    ],
+    "description": "Les fleurs de coquelicot remplacent avantageusement l'opium sans les mêmes inconvénients. Cette infusion facilite la transpiration. En lavement avec huile d'olive, elle guérit la diarrhée.",
+    "preparation": "Infusion : 4 à 5 grammes par litre d'eau. Prendre par petites quantités. En lavement avec un peu d'huile d'olive pour la diarrhée."
+  },
+  {
+    "remede": "Cresson",
+    "symptomes": [
+      "catarrhes chroniques",
+      "rhumes anciens",
+      "phtisie débutante",
+      "scorbut",
+      "muguet",
+      "enflures du ventre",
+      "hydropisie",
+      "maladies de poitrine"
+    ],
+    "description": "L'une des meilleures plantes dépuratives. On peut la prendre en salade ou en soupe. Cuite dans du lait, elle guérit les catarrhes chroniques et les rhumes anciens. Mangée verte et fraîche, elle guérit le scorbut et le muguet.",
+    "preparation": "En salade ou soupe crue. Cuite dans du lait pour les catarrhes. Jus : 120 grammes mêlé avec autant de lait dans les catarrhes pulmonaires."
+  },
+  {
+    "remede": "Eucalyptus",
+    "symptomes": [
+      "influenza (grippe)",
+      "phtisie",
+      "fièvres",
+      "maladies infectieuses",
+      "maladies de poitrine"
+    ],
+    "description": "Arbre originaire d'Australie. Ses feuilles contiennent une essence puissamment antiseptique. En fumigations pour assainir les chambres. En usage interne contre l'influenza, la phtisie, les fièvres.",
+    "preparation": "Décoction : 12 à 15 grammes de feuilles pour un litre d'eau. Fumigations avec les feuilles pour assainir les chambres. Fomentations dans les maladies de poitrine et infectieuses."
+  },
+  {
+    "remede": "Fenouil",
+    "symptomes": [
+      "manque de lait (nourrices)",
+      "fièvres malignes",
+      "petite vérole",
+      "rougeole",
+      "problèmes de vue"
+    ],
+    "description": "Ses racines sont apéritives. Les semences de fenouil augmentent la quantité de lait des nourrices et le rendent meilleur. Simon Pauli conseille la décoction de la racine et des graines dans les fièvres malignes.",
+    "preparation": "Racines apéritives : infusion 25 grammes par litre d'eau, un verre ordinaire avant chaque repas. Semences pour le lait des nourrices : infusion 30 grammes par litre d'eau, un verre ordinaire avant chaque repas."
+  },
+  {
+    "remede": "Fougère mâle",
+    "symptomes": [
+      "vers intestinaux ordinaires",
+      "ver solitaire (ténia)",
+      "rachitisme",
+      "énurésie nocturne"
+    ],
+    "description": "Avec les feuilles sèches on fabrique d'excellents matelas pour les enfants faibles, rachitiques, noués, qui font pipi au lit. Les racines réduites en poudre s'emploient contre les vers et le ver solitaire.",
+    "preparation": "Décoction de racines en poudre : 15 à 25 grammes par demi-litre d'eau. Matelas de feuilles sèches pour les enfants rachitiques."
+  },
+  {
+    "remede": "Fraisier",
+    "symptomes": [
+      "catarrhes",
+      "goutte",
+      "gravelle",
+      "rhumatismes"
+    ],
+    "description": "Les fraises forment un aliment nourrissant, utile aux catarrheux, goutteux et aux personnes atteintes de gravelle et de rhumatismes. Les racines sont apéritives et dépuratives.",
+    "preparation": "Manger les fraises saupoudrées de sucre et arrosées d'un peu de vin pour les rendre plus digestibles."
+  },
+  {
+    "remede": "Frêne (feuilles)",
+    "symptomes": [
+      "goutte",
+      "rhumatismes",
+      "morsures de vipère (enflure)"
+    ],
+    "description": "Son écorce est astringente. Ses feuilles sont purgatives. Très conseillé aux personnes atteintes de goutte ou de rhumatismes. La deuxième écorce de frêne en décoction est un remède efficace contre les morsures de vipère.",
+    "preparation": "Infusion pour goutte et rhumatismes : 30 grammes par litre d'eau avec quelques feuilles de menthe, une tasse après chaque repas. Pour morsures : faire bouillir deux grosses poignées de deuxième écorce de frêne dans 2 litres d'eau jusqu'à réduction de moitié, donner un demi-litre à boire et utiliser l'autre pour laver la partie enflée."
+  },
+  {
+    "remede": "Fumeterre",
+    "symptomes": [
+      "dartres",
+      "croûtes de lait (enfants)",
+      "jaunisse",
+      "engorgement du foie",
+      "maladies de la peau",
+      "scrofule"
+    ],
+    "description": "Plante dépurative. Son infusion est dépurative et guérit à la longue les dartres, les croûtes de lait chez les enfants, la jaunisse et l'engorgement du foie. Plusieurs centenaires l'auraient utilisée comme seul remède.",
+    "preparation": "Infusion : 50 grammes par litre d'eau. Prendre un grand verre avant le repas du soir, ajouter un morceau de sucre pour enlever l'amertume. Pour les dartres invétérées : 6 mois, matin et soir, infusée dans du lait."
+  },
+  {
+    "remede": "Genêt à balais",
+    "symptomes": [
+      "rétentions d'urine",
+      "hydropisie"
+    ],
+    "description": "Les fleurs de genêt sont diurétiques et très utiles dans les rétentions d'urine. Plusieurs savants affirment avoir guéri l'hydropisie avec ce traitement.",
+    "preparation": "Décoction : une bonne poignée de fleurs par litre d'eau. Traitement d'un mois à raison d'un litre de tisane par jour, prise à jeun en quatre fois."
+  },
+  {
+    "remede": "Genévrier (baies)",
+    "symptomes": [
+      "épuisement nerveux",
+      "lassitude des viscères",
+      "vieux ulcères",
+      "gravelle"
+    ],
+    "description": "Quand le système nerveux, les viscères et l'estomac sont dans une grande lassitude, les baies de genévrier sont employées comme stimulant. Pour laver les vieux ulcères et en obtenir la cicatrisation.",
+    "preparation": "Infusion de baies : une poignée pour un litre d'eau, un verre ordinaire trois fois par jour à jeun. Pour les ulcères : décoction de bois de Genévrier 50 grammes pour un litre d'eau, laver les plaies. Pour la gravelle : infusion des baies concassées dans du lait de chèvre bouillant."
+  },
+  {
+    "remede": "Gentiane jaune",
+    "symptomes": [
+      "faiblesses de l'estomac après fièvres",
+      "goutte",
+      "scrofule",
+      "fièvres intermittentes"
+    ],
+    "description": "La racine de gentiane est tonique, stomachique, fébrifuge et vermifuge. Donne d'heureux résultats pour relever les forces de l'estomac après les fièvres.",
+    "preparation": "Vin de gentiane : 30 grammes de racines sèches, 50 grammes d'eau-de-vie (macérer 24h), ajouter un litre de vin blanc, macérer 6 jours encore, passer. Un petit verre avant chaque repas."
+  },
+  {
+    "remede": "Globulaire vulgaire (Turbith)",
+    "symptomes": [
+      "constipation"
+    ],
+    "description": "Excellent purgatif qui ne cause ni nausées ni coliques, et n'est pas mauvais à prendre.",
+    "preparation": "Décoction de feuilles : 40 à 60 grammes pour un litre d'eau."
+  },
+  {
+    "remede": "Grenadier (écorce de racine)",
+    "symptomes": [
+      "ver solitaire (ténia)"
+    ],
+    "description": "L'écorce de racines de grenadier est employée avec succès pour chasser le ver solitaire.",
+    "preparation": "Employer l'écorce de racines en décoction."
+  },
+  {
+    "remede": "Groseillier noir (cassis)",
+    "symptomes": [
+      "hydropisie",
+      "gravelle",
+      "rétentions d'urine",
+      "goutte",
+      "rhumatisme",
+      "inflammations de l'estomac et des intestins"
+    ],
+    "description": "Les feuilles de cassis mélangées à la même quantité de réglisse donnent une boisson très rafraîchissante et diurétique. Conseillée dans l'hydropisie, la gravelle, les rétentions d'urine, la goutte et le rhumatisme.",
+    "preparation": "Décoction : 30 grammes de feuilles et 30 grammes de réglisse pour un litre d'eau."
+  },
+  {
+    "remede": "Guimauve",
+    "symptomes": [
+      "inflammations intestinales",
+      "inflammation des gencives",
+      "constipation",
+      "irritation des voies respiratoires"
+    ],
+    "description": "Les fleurs, feuilles et racines sont adoucissantes et émollientes. En lavements tièdes, elle débarrasse les intestins. Conseillée en pommade à sucer pour les bébés lors de la dentition.",
+    "preparation": "Infusion : 30 grammes par litre d'eau pour les feuilles et les fleurs. Décoction à la même dose pour les racines. En lavements tièdes pour les intestins. Donner une racine à sucer aux bébés pour la dentition."
+  },
+  {
+    "remede": "Hêtre (écorce)",
+    "symptomes": [
+      "fièvres intermittentes",
+      "fièvres des marais"
+    ],
+    "description": "Son écorce est un excellent fébrifuge, surtout pour les fièvres intermittentes et des marais.",
+    "preparation": "Décoction : 30 grammes d'écorce sèche pour un litre d'eau."
+  },
+  {
+    "remede": "Hièble (petit sureau)",
+    "symptomes": [
+      "sudation insuffisante",
+      "constipation",
+      "vers intestinaux"
+    ],
+    "description": "Ses fleurs sont sudorifiques. L'écorce de ses racines et la deuxième écorce sont purgatives. Les feuilles d'hièble et d'absinthe cuites ensemble et appliquées sur le bas-ventre d'un enfant ont procuré des évacuations avec expulsion de vers vivants.",
+    "preparation": "Décoction de fleurs ou d'écorce : 50 grammes par litre d'eau."
+  },
+  {
+    "remede": "Houblon",
+    "symptomes": [
+      "sang appauvri",
+      "scrofule",
+      "rachitisme",
+      "scorbut",
+      "vers intestinaux",
+      "maux d'estomac",
+      "digestion lente",
+      "insomnie"
+    ],
+    "description": "La décoction du houblon régénère le sang appauvri en le dépurant et rend la santé. Utile pour les enfants lymphatiques, mous, prédisposés au scrofulisme, rachitiques, vermineux, scorbutiques. Un verre avant de se mettre au lit procure un sommeil tranquille.",
+    "preparation": "Décoction : 40 grammes de cônes pour un litre d'eau. Trois petits verres par jour à jeun pour les enfants. Trois verres ordinaires par jour pour les grandes personnes. Un verre le soir pour favoriser le sommeil."
+  },
+  {
+    "remede": "Hysope officinale",
+    "symptomes": [
+      "affections pulmonaires",
+      "catarrhes chroniques",
+      "asthme humide",
+      "gravelles",
+      "fièvres éruptives",
+      "coliques venteuses",
+      "gastralgies",
+      "flueurs blanches"
+    ],
+    "description": "Plante excitante, amère et tonique. Très utile dans les affections pulmonaires et les catarrhes chroniques, car elle facilite l'expulsion des crachats.",
+    "preparation": "Infusion : 20 grammes par litre d'eau."
+  },
+  {
+    "remede": "Laitue cultivée",
+    "symptomes": [
+      "constipation",
+      "insomnie",
+      "agitation nerveuse"
+    ],
+    "description": "En salade, convient aux personnes constipées. Sa décoction est rafraîchissante, émolliente, narcotique. Très conseillée aux personnes nerveuses pour favoriser le sommeil.",
+    "preparation": "Tisane pour dormir : une forte pincée de feuilles de laitue dans deux verres d'eau, bouillir 5 minutes, boire tiède avant de se coucher. Décoction : 60 grammes par litre d'eau, trois verres par jour à jeun."
+  },
+  {
+    "remede": "Lavande (aspic)",
+    "symptomes": [
+      "poux et vermine",
+      "maux de tête",
+      "migraine",
+      "indigestions",
+      "suppression des règles",
+      "enflure"
+    ],
+    "description": "Extrêmement aromatique. L'huile d'aspic est très employée en parfumerie et médecine. Pour détruire tout genre de vermine. Son infusion est très utile pour les maux de tête, la migraine, et ramène les règles supprimées par affaiblissement.",
+    "preparation": "Pour la vermine : moitié huile d'aspic, moitié alcool, frictionner deux fois la partie atteinte. Infusion : 10 grammes de fleurs par litre d'eau. Pour les règles : boire l'infusion pendant 3 ou 4 jours au moment où les règles devraient apparaître. Pour l'enflure : fumigation de lavande et romarin dans une bassinoire, bassiner le lit du malade."
+  },
+  {
+    "remede": "Lichen d'Islande",
+    "symptomes": [
+      "maladies des bronches",
+      "toux",
+      "diarrhées chroniques",
+      "diarrhées des enfants en sevrage"
+    ],
+    "description": "Sa décoction est très réputée dans les maladies des bronches, calme la toux et les diarrhées chroniques.",
+    "preparation": "Décoction : 30 grammes par litre d'eau, ordinairement préparée avec du lait sucrée au miel. Prendre un bol bien chaud en se couchant et au saut du lit. Peut en boire à volonté."
+  },
+  {
+    "remede": "Lierre grimpant (feuilles)",
+    "symptomes": [
+      "plaies",
+      "brûlures",
+      "érysipèles",
+      "cors aux pieds"
+    ],
+    "description": "Les feuilles appliquées sur les plaies, les brûlures et les érysipèles préviennent les éruptions douloureuses et maintiennent une fraîcheur sur la peau enflammée. Contre les cors : faire tremper dans du fort vinaigre pendant une journée, appliquer sur le cor.",
+    "preparation": "Appliquer les feuilles bien propres directement sur les plaies ou brûlures. Pour les cors : tremper les feuilles dans du vinaigre une journée, appliquer sur le cor avec une bandelette de toile jusqu'au lendemain matin."
+  },
+  {
+    "remede": "Lierre terrestre",
+    "symptomes": [
+      "vieux rhumes",
+      "catarrhes chroniques",
+      "phtisie",
+      "migraine"
+    ],
+    "description": "Son infusion est un excellent médicament pour les vieux rhumes et les catarrhes chroniques. Dans la phtisie, elle modifie les crachats et relève les forces du malade. Bossu le conseille comme tonique stimulant des organes respiratoires.",
+    "preparation": "Infusion : 15 à 20 grammes par litre d'eau. Pour la migraine : aspirer le jus de cette plante par le nez."
+  },
+  {
+    "remede": "Lin (graines)",
+    "symptomes": [
+      "inflammations de l'estomac",
+      "inflammations des intestins",
+      "constipation",
+      "parties enflammées"
+    ],
+    "description": "Tisane donnée dans toutes les inflammations de l'estomac et des intestins. La farine de lin sert à fabriquer l'un des meilleurs cataplasmes émollients. La farine doit être fraîche.",
+    "preparation": "Tisane : 12 à 15 grammes dans un litre d'eau, bouillir à peine deux minutes. Cataplasme de farine de lin : appliquer sur les parties enflammées et le ventre pour calmer les douleurs. La farine doit être fraîche."
+  },
+  {
+    "remede": "Lis blanc",
+    "symptomes": [
+      "plaies",
+      "écorchures",
+      "contusions",
+      "cors",
+      "callosités",
+      "abcès",
+      "panaris",
+      "furoncles"
+    ],
+    "description": "Pour les plaies, tremper les fleurs dans de l'eau-de-vie pendant au moins 6 heures, appliquer directement. L'oignon du lis cuit sous la cendre appliqué sur un cor le fait mûrir. Recommandé pour les abcès, panaris, tournioles et furoncles.",
+    "preparation": "Fleurs pour les plaies : les faire tremper dans de l'eau-de-vie au moins 6 heures avant d'appliquer. Oignon pour les cors : cuire sous la cendre et appliquer, renouveler toutes les heures."
+  },
+  {
+    "remede": "Liseron des haies",
+    "symptomes": [
+      "constipation"
+    ],
+    "description": "Toutes les parties de cette plante sont laxatives et fournissent un excellent purgatif très léger.",
+    "preparation": "Faire bouillir 8 à 10 grammes de feuilles ou racines dans un demi-litre d'eau, laisser refroidir, passer et boire un verre ordinaire à jeun."
+  },
+  {
+    "remede": "Marrube",
+    "symptomes": [
+      "problèmes d'estomac",
+      "rétention d'urine",
+      "suppression des règles",
+      "maladies du cœur",
+      "maladies du foie",
+      "rhumatismes",
+      "jaunisse",
+      "gastralgies",
+      "pertes blanches",
+      "ulcères"
+    ],
+    "description": "Cette tisane prise à jeun fortifie l'estomac, excite la sécrétion des urines, active la transpiration, provoque l'écoulement menstruel. Conseillée dans les maladies du cœur et du foie. Son usage prolongé fait maigrir sensiblement.",
+    "preparation": "Infusion : 30 grammes de feuilles et fleurs par litre d'eau, laisser infuser 10 minutes. Prendre à jeun 5 à 6 verres par jour (usage modéré recommandé)."
+  },
+  {
+    "remede": "Mauve",
+    "symptomes": [
+      "asthme",
+      "rhumes",
+      "toux",
+      "inflammation de la peau",
+      "vomissements de sang (hématemèse)",
+      "maladies des voies respiratoires"
+    ],
+    "description": "Grande mauve et petite mauve ont les mêmes propriétés : émollientes et adoucissantes. Les fleurs sont très utiles dans toutes les maladies des voies respiratoires. Les feuilles s'emploient en cataplasmes émollients.",
+    "preparation": "Infusion de fleurs : 15 grammes pour un litre d'eau. Décoction de feuilles ou racines : 30 grammes par litre d'eau. Pour les vomissements de sang : infusion de fleurs 15 grammes pour un demi-litre d'eau, laisser infuser 5 minutes, trois fois par jour à jeun pendant 4 jours maximum."
+  },
+  {
+    "remede": "Mélilot",
+    "symptomes": [
+      "inflammation des yeux"
+    ],
+    "description": "Anciennement employée dans une infinité de maladies, il est aujourd'hui prouvé qu'elle ne rend service que pour l'inflammation des yeux.",
+    "preparation": "Infusion : 30 grammes de feuilles et fleurs pour un litre d'eau bouillante, laisser infuser 10 minutes, passer et laver les yeux. Ajouter un peu de miel."
+  },
+  {
+    "remede": "Mélisse",
+    "symptomes": [
+      "migraine",
+      "langueurs d'estomac",
+      "spasmes",
+      "convulsions",
+      "maux de tête",
+      "palpitations",
+      "mauvaises digestions",
+      "coupures et plaies (usage externe)"
+    ],
+    "description": "Les feuilles et sommités fleuries en infusion. Emploi avec succès dans la migraine, les langueurs d'estomac, les spasmes, les palpitations et les mauvaises digestions. L'Eau de Mélisse des Carmes, préparation élaborée, est aussi vulnéraire.",
+    "preparation": "Infusion : 25 grammes pour un litre d'eau. Eau de Mélisse des Carmes : 3 litres d'esprit de vin, 500 g de feuilles et fleurs de mélisse, 16 g de racines d'angélique, 125 g de zestes de citron, macérer 9 jours, filtrer, ajouter 200 g de coriandre, 40 g noix muscade, cannelle, girofle, macérer 8 jours, ajouter 1/8 d'eau de fontaine, laisser reposer 24h, filtrer."
+  },
+  {
+    "remede": "Menthe poivrée",
+    "symptomes": [
+      "mauvaises digestions",
+      "catarrhes des muqueuses",
+      "palpitations",
+      "tremblements",
+      "vomissements nerveux",
+      "vers intestinaux",
+      "règles douloureuses",
+      "coliques de la matrice"
+    ],
+    "description": "Souveraine contre les mauvaises digestions et le catarrhe des muqueuses. Conseillée dans les règles douloureuses accompagnées de frissons, bâillements, spasmes et coliques déchirantes, car elle détermine une répartition plus égale de la chaleur et fait couler les règles de manière paisible.",
+    "preparation": "Infusion : 10 grammes par litre d'eau (fleurs et feuilles)."
+  },
+  {
+    "remede": "Mercuriale",
+    "symptomes": [
+      "constipation",
+      "croûtes de lait (enfants)"
+    ],
+    "description": "Plante employée comme purgatif. En séchant, elle perd une grande partie de ses propriétés, il faut donc l'employer fraîche. Administrée en lavements. En application sur la tête des enfants, elle fait tomber les croûtes formées pendant l'allaitement.",
+    "preparation": "Infusion : 20 à 30 grammes pour un litre. En lavements : 40 à 60 grammes en décoction pour deux litres d'eau. Employer fraîche exclusivement."
+  },
+  {
+    "remede": "Mille-feuilles",
+    "symptomes": [
+      "suppression des règles",
+      "suppression des lochies (post-partum)",
+      "hémorragies",
+      "maladies nerveuses"
+    ],
+    "description": "Plante tonique, stimulante, antispasmodique et emménagogue. Lorsque les règles sont supprimées pour une cause passagère, ou après l'accouchement quand les lochies se suppriment, la mille-feuilles peut les ramener facilement.",
+    "preparation": "Infusion : 30 grammes de toute la plante par litre d'eau. Ou sous la forme de suc exprimé."
+  },
+  {
+    "remede": "Millepertuis",
+    "symptomes": [
+      "impuretés de l'estomac",
+      "manque d'appétit",
+      "vomissements",
+      "aigreurs",
+      "renvois",
+      "catarrhes chroniques",
+      "rhumes",
+      "affections pulmonaires",
+      "catarrhes de la vessie",
+      "plaies et coupures"
+    ],
+    "description": "L'une des plantes les plus utiles. Un grand verre avant le repas débarrasse l'estomac de toutes les impuretés, donne appétit, facilite la digestion, supprime les vomissements et aigreurs. En usage externe sur les plaies et écorchures : calme la douleur et facilite la guérison.",
+    "preparation": "Infusion : 30 grammes de fleurs et feuilles par litre d'eau bouillante. Usage externe : faire macérer les fleurs dans l'alcool et appliquer sur les plaies."
+  },
+  {
+    "remede": "Moutarde",
+    "symptomes": [
+      "rhumatismes",
+      "congestion",
+      "vomissements nécessaires",
+      "froid aux pieds"
+    ],
+    "description": "Les graines réduites en pâte (farine de moutarde) servent pour faire des bains de pieds et des sinapismes. Une cuillerée dans un verre d'eau constitue un vomitif. Une pincée dans les chaussettes empêche le froid aux pieds.",
+    "preparation": "Sinapisme : farine de moutarde mélangée avec de l'eau tiède (jamais chaude ni vinaigre), rester en place 35 à 40 minutes. Vomitif : une cuillerée à bouche de farine dans un verre d'eau fraîche ou tiède, par gorgées."
+  },
+  {
+    "remede": "Noyer (feuilles)",
+    "symptomes": [
+      "scrofule",
+      "flueurs blanches",
+      "diabète",
+      "anémie",
+      "maladies nerveuses"
+    ],
+    "description": "Les feuilles en infusion contre la scrofule et les flueurs blanches. Un remède donnant des résultats merveilleux contre le diabète. Activent la digestion et la circulation du sang. La peau prend une teinte rosée sous leur influence.",
+    "preparation": "Infusion pour la scrofule : 30 grammes de feuilles dans un litre d'eau, trois verres par jour à jeun. Injections pour les flueurs blanches : 50 grammes de feuilles en décoction pour un litre d'eau, soir et matin. Pour le diabète : infusion 20 à 25 grammes par litre d'eau, matin et soir. Bain de décoction forte pour les personnes scrofuleuses ou nerveuses."
+  },
+  {
+    "remede": "Oignon",
+    "symptomes": [
+      "hydropisie",
+      "rétention d'urine",
+      "maladies respiratoires",
+      "panaris",
+      "furoncles",
+      "abcès"
+    ],
+    "description": "L'oignon cuit constitue une nourriture salutaire dans l'hydropisie et les rétentions d'urine. Cuit sous la cendre et appliqué sur les panaris et furoncles, il en active la suppuration.",
+    "preparation": "Cuit sous la cendre comme cataplasme sur les panaris et furoncles, renouveler deux fois par jour. Cuit et mangé pour l'hydropisie et les maladies respiratoires."
+  },
+  {
+    "remede": "Oranger (fleurs)",
+    "symptomes": [
+      "agitations nerveuses",
+      "spasmes",
+      "toux nerveuse",
+      "attaques de nerfs",
+      "migraines",
+      "palpitations",
+      "maladies inflammatoires (soif)"
+    ],
+    "description": "L'eau de fleur d'oranger, prise avec de l'eau sucrée, calme les agitations nerveuses, les spasmes, la toux nerveuse et les migraines. Facilite la digestion, augmente l'appétit. L'orangeade est préférable à la limonade ordinaire pour calmer la soif dans les maladies inflammatoires.",
+    "preparation": "Infusion de feuilles : 20 grammes pour un litre d'eau. Eau de fleur d'oranger avec eau sucrée. Orangeade (suc d'oranges, eau et sucre) pour les malades fiévreux."
+  },
+  {
+    "remede": "Orge",
+    "symptomes": [
+      "inflammations de la gorge",
+      "fièvres (rafraîchissant)"
+    ],
+    "description": "Comme médicament, l'orge préparée en décoction fournit une tisane rafraîchissante et légèrement nourrissante. Dans les inflammations de la gorge, se gargariser avec de la tisane d'orge et un peu de miel.",
+    "preparation": "Décoction : faire bouillir longtemps. Gargarisme avec tisane d'orge et un peu de miel pour les maux de gorge."
+  },
+  {
+    "remede": "Ortie dioïque",
+    "symptomes": [
+      "crachements de sang",
+      "vomissements de sang",
+      "saignements de nez",
+      "pertes utérines",
+      "fièvres éruptives",
+      "choléra",
+      "rhumatismes",
+      "paralysie",
+      "apoplexie",
+      "maladies de peau"
+    ],
+    "description": "En usage externe : urtication (frapper le corps avec des orties) pour amener une éruption de boutons et activer la circulation dans les fièvres éruptives, choléra, certains rhumatismes, paralysie. En usage interne : astringent excellent dans les crachements de sang, vomissements de sang, saignements de nez et pertes utérines.",
+    "preparation": "Suc : extraire en pressant fortement toute la plante, 100 grammes par jour en trois fois. Sirop : faire cuire 250 grammes de suc avec 250 grammes de sucre jusqu'à consistance de sirop. Tisane : 50 grammes de la plante dans un litre d'eau, bouillir 5 minutes, boire à volonté."
+  },
+  {
+    "remede": "Ortie blanche",
+    "symptomes": [
+      "flueurs blanches",
+      "diarrhées"
+    ],
+    "description": "L'ortie blanche est employée avec succès pour combattre les flueurs blanches et les diarrhées. Les fleurs seules ou les sommités fleuries sont utilisées.",
+    "preparation": "Infusion : 20 à 30 grammes pour un litre d'eau. Récolter au moment de la floraison."
+  },
+  {
+    "remede": "Oseille",
+    "symptomes": [
+      "croup (prévention)",
+      "constipation (en bouillon)"
+    ],
+    "description": "La racine d'oseille est dépurative. Ses feuilles sont rafraîchissantes et facilitent la digestion. En bouillon, elles aident les purgatifs. Pendant l'épidémie de croup, l'oseille mâchée par les enfants peut les préserver. Son usage est défendu dans les maladies de poitrine, l'asthme et les estomacs irrités.",
+    "preparation": "En bouillon ou mâchée fraîche. Éviter dans les maladies de poitrine et l'asthme."
+  },
+  {
+    "remede": "Pariétaire officinale",
+    "symptomes": [
+      "maladies des voies urinaires",
+      "hydropisie",
+      "gravelle",
+      "coliques néphrétiques",
+      "rétentions d'urine"
+    ],
+    "description": "Son infusion rend de grands services dans toutes les maladies des voies urinaires. Bossu dit qu'elle augmente la sécrétion de l'urine et guérit l'hydropisie, la gravelle et les coliques néphrétiques.",
+    "preparation": "Infusion : 30 grammes de plantes et feuilles sèches pour un litre d'eau. Boire à jeun."
+  },
+  {
+    "remede": "Pavot somnifère",
+    "symptomes": [
+      "insomnie",
+      "nervosité"
+    ],
+    "description": "De la tige on retire l'opium. Une tête de pavot bouillie deux minutes donne une tisane dont un demi-verre calme les nerfs et ramène le sommeil, mais il faut en user rarement.",
+    "preparation": "Une tête de pavot bouillie deux minutes dans un demi-litre d'eau. Prendre seulement un demi-verre et rarement."
+  },
+  {
+    "remede": "Pensée sauvage",
+    "symptomes": [
+      "maladies de peau",
+      "dartres",
+      "eczémas",
+      "boutons",
+      "croûtes de lait (enfants)"
+    ],
+    "description": "Dépuratif très recommandable, surtout dans les maladies de la peau. L'urine prend une odeur fétide rappelant l'urine de chat lorsque la plante produit son effet. La guérison est complète en 10 à 15 jours.",
+    "preparation": "Pour les grandes personnes : infusion 60 grammes par litre d'eau (toute la plante), quatre verres par jour. Pour les enfants : 2 grammes par demi-litre d'eau ou de lait, quatre fois par jour un demi-verre."
+  },
+  {
+    "remede": "Persil",
+    "symptomes": [
+      "contusions",
+      "maux de dents"
+    ],
+    "description": "Le persil relève le goût des aliments et facilite la digestion. Pour les contusions : un excellent remède est de bassiner trois fois par jour avec de l'eau-de-vie camphrée et mettre un cataplasme de persil cuit dans du vin. Pour les maux de dents : persil broyé avec du sel introduit dans l'oreille du côté malade.",
+    "preparation": "Contusions : bassiner avec eau-de-vie camphrée et cataplasme de persil cuit dans du vin (chauffé dans le même vin). Maux de dents : broyer le persil dans la main avec du sel et introduire dans l'oreille du côté malade."
+  },
+  {
+    "remede": "Pin et Sapin (bourgeons)",
+    "symptomes": [
+      "maladies des voies respiratoires",
+      "toux",
+      "rhumatismes",
+      "asthme",
+      "catarrhes",
+      "bronchites"
+    ],
+    "description": "Tous les arbres connus sous le nom de pins et sapins fournissent des médicaments précieux : bourgeons de sapin, térébentine, essence de térébentine, poix de Bourgogne et goudron. Les bourgeons de sapin sont très employés dans toutes les maladies des voies respiratoires.",
+    "preparation": "Infusion de bourgeons de sapin : 15 grammes par litre d'eau."
+  },
+  {
+    "remede": "Pissenlit",
+    "symptomes": [
+      "manque d'appétit",
+      "constipation",
+      "maladies du foie",
+      "ballonnements"
+    ],
+    "description": "La décoction de ses feuilles et racines est apéritive, diurétique et dépurative. Ses feuilles font d'excellentes salades rafraîchissantes et bonnes pour la santé.",
+    "preparation": "Décoction : 60 grammes de feuilles et racines pour un litre d'eau. En salade."
+  },
+  {
+    "remede": "Plantain",
+    "symptomes": [
+      "diarrhée",
+      "dysenterie",
+      "crachements de sang",
+      "flueurs blanches",
+      "plaies et coupures",
+      "maux d'yeux"
+    ],
+    "description": "En décoction, très utile pour la diarrhée et la dysenterie. Le suc de plantain est un excellent remède contre les crachements de lait et les flueurs blanches. Les feuilles lavées et appliquées sur les plaies en facilitent la guérison.",
+    "preparation": "Décoction : 50 grammes pour un litre d'eau. Suc de plantain : 50 grammes trois fois par jour. Feuilles fraîches lavées et appliquées directement sur les plaies et coupures."
+  },
+  {
+    "remede": "Poireau",
+    "symptomes": [
+      "panaris",
+      "tumeurs",
+      "abcès",
+      "piqûres d'insectes et de vipères"
+    ],
+    "description": "Aliment diurétique. Onguent pour les panaris : le blanc d'un gros poireau enveloppé dans un papier mouillé cuit sous les cendres, écrasé et mélangé avec graisse de porc. Pour les piqûres : frotter vivement la tête de poireau sur la piqûre, l'acide décompose le venin.",
+    "preparation": "Onguent pour panaris : cuire le blanc du poireau sous les cendres 20 minutes, écraser, mélanger avec de la graisse de porc, appliquer en cataplasme et renouveler toutes les 6 heures jusqu'à suppuration. Pour les piqûres : couper une tête en deux et frotter vivement pendant une minute."
+  },
+  {
+    "remede": "Polypode commun",
+    "symptomes": [
+      "toux chronique"
+    ],
+    "description": "La racine est seule employée, apéritive et surtout utile pour calmer la toux. Elle guérit la toux chronique. Le sirop de polypode est un excellent expectorant.",
+    "preparation": "Décoction de racine : 80 à 100 grammes en décoction. Sirop de polypode : parties égales de sucre et de racines."
+  },
+  {
+    "remede": "Pomme de terre",
+    "symptomes": [
+      "scorbut",
+      "brûlures légères",
+      "excoriations des enfants et personnes obèses"
+    ],
+    "description": "En médecine employée sous forme de fécule pour soupes légères et cataplasmes. Pour le scorbut : quelques rondelles mangées crues préviennent et font disparaître les premiers symptômes. La pomme de terre râpée en cataplasme calme rapidement la douleur des brûlures légères.",
+    "preparation": "Pour le scorbut : manger des rondelles de pommes de terre crues. Pour les brûlures : cataplasme de pomme de terre râpée. Pour les excoriations : saupoudrer de fécule de pomme de terre."
+  },
+  {
+    "remede": "Pommier (écorce et fruits)",
+    "symptomes": [
+      "inflammations (poumon, intestins)",
+      "fièvres",
+      "calculs (pierre, gravelle)"
+    ],
+    "description": "Les pommes jouissent de propriétés nourrissantes, rafraîchissantes et légèrement laxatives. L'écorce du pommier peut remplacer le sulfate de quinine dans les fièvres. Le cidre naturel préserve des maladies calculeuses.",
+    "preparation": "Tisane de pommes reinettes : couper 2 ou 3 pommes en quartiers et les faire bouillir dans un litre d'eau avec un peu de réglisse pendant 10 minutes. Décoction d'écorce : 80 grammes pour un litre d'eau pour les fièvres."
+  },
+  {
+    "remede": "Prêle des champs",
+    "symptomes": [
+      "hémorragies",
+      "diarrhées",
+      "crachements de sang",
+      "mauvaises plaies",
+      "ulcères"
+    ],
+    "description": "Plante astringente et vulnéraire, employée avec succès dans les hémorragies, les diarrhées et les crachements de sang. À l'extérieur, la décoction sert à laver les mauvaises plaies et les ulcères.",
+    "preparation": "Décoction : 30 à 50 grammes pour un litre d'eau. À l'extérieur pour laver les plaies. Une tasse de temps en temps pour purifier l'estomac."
+  },
+  {
+    "remede": "Pulmonaire",
+    "symptomes": [
+      "maladies de poitrine",
+      "crachements de sang"
+    ],
+    "description": "Plante pectorale, émolliente et adoucissante. Rend de grands services dans les maladies de la poitrine et les crachements de sang.",
+    "preparation": "Infusion ou décoction : 30 à 35 grammes par litre d'eau."
+  },
+  {
+    "remede": "Raifort sauvage",
+    "symptomes": [
+      "scorbut",
+      "scrofules",
+      "catarrhes chroniques",
+      "asthme humide"
+    ],
+    "description": "Très utile en médecine. Stimulant et antiscorbutique. Très utile dans les scrofules, les catarrhes chroniques et l'asthme humide. C'est l'un des meilleurs diurétiques. Peut remplacer avantageusement la moutarde.",
+    "preparation": "Infusion de racines fraîches : 60 grammes pour un litre d'eau."
+  },
+  {
+    "remede": "Réglisse",
+    "symptomes": [
+      "maladies de poitrine",
+      "toux",
+      "rétentions d'urine"
+    ],
+    "description": "La réglisse a des propriétés pectorales et adoucissantes ; elle est aussi diurétique et calmante. Entre dans la tisane des hôpitaux avec de l'orge et du chiendent.",
+    "preparation": "En tisane avec orge et chiendent (tisane des hôpitaux). En décoction seule pour les maladies de poitrine."
+  },
+  {
+    "remede": "Reine des prés",
+    "symptomes": [
+      "hydropisie",
+      "rétentions d'urine"
+    ],
+    "description": "Plante astringente, tonique et surtout diurétique. Pousse aux urines et guérit l'hydropisie.",
+    "preparation": "Décoction de toute la plante (racines, feuilles, fleurs) : 30 grammes pour un litre d'eau. Boire trois verres par jour entre les repas."
+  },
+  {
+    "remede": "Renouée des oiseaux",
+    "symptomes": [
+      "diarrhées rebelles"
+    ],
+    "description": "Plante vulnéraire et astringente. Les diarrhées qui ont résisté à tous les astringents cèdent rapidement à une forte décoction de cette plante.",
+    "preparation": "Décoction : environ 60 grammes par litre d'eau."
+  },
+  {
+    "remede": "Rhubarbe",
+    "symptomes": [
+      "constipation",
+      "maladies du foie",
+      "vers intestinaux",
+      "manque d'appétit",
+      "digestion difficile"
+    ],
+    "description": "La racine de rhubarbe est purgative, fortifiante et vermifuge. Comme purgatif très léger, ne cause pas de coliques et ne fatigue pas l'estomac. Utile dans les maladies du foie. Comme fortifiant, excite l'appétit et facilite la digestion.",
+    "preparation": "Purgatif et vermifuge : 2 à 3 grammes de poudre de racine avec un peu de miel. Fortifiant : 25 centigrammes de poudre dans la première cuillerée de soupe aux deux repas principaux."
+  },
+  {
+    "remede": "Romarin officinal",
+    "symptomes": [
+      "asthme",
+      "catarrhes chroniques",
+      "vomissements nerveux",
+      "entorses",
+      "gonflements articulaires",
+      "manque d'appétit",
+      "maladies d'estomac"
+    ],
+    "description": "Très excitant, comme la menthe et la mélisse. Employé dans l'asthme et les catarrhes chroniques. Pour les entorses : faire cuire les feuilles de romarin dans du vin et appliquer le tout en emplâtre.",
+    "preparation": "Infusion : 35 grammes par litre d'eau. Pour les entorses : feuilles cuites dans du vin, appliquer en emplâtre sur le mal, renouveler toutes les 3 heures."
+  },
+  {
+    "remede": "Rosier (boutons de rose)",
+    "symptomes": [
+      "écoulements",
+      "flueurs blanches",
+      "diarrhées chroniques",
+      "pertes prolongées"
+    ],
+    "description": "Les boutons de roses sont astringents. Utiles dans les écoulements, les flueurs blanches, les diarrhées chroniques, les pertes peu abondantes mais prolongées. Sont aussi fortifiants.",
+    "preparation": "Infusion : 15 grammes par litre d'eau."
+  },
+  {
+    "remede": "Sabine (décoction externe)",
+    "symptomes": [
+      "gale",
+      "ulcères putrides",
+      "affections vermineuses"
+    ],
+    "description": "Poison dangereux en usage interne. La décoction de sabine est très bonne en lotion externe contre la gale, les ulcères putrides, fongueux, gangreneux et les affections vermineuses.",
+    "preparation": "Lotion externe uniquement : décoction appliquée sur les parties affectées. Ne jamais prendre en usage interne."
+  },
+  {
+    "remede": "Salsepareille",
+    "symptomes": [
+      "vices du sang",
+      "syphilis",
+      "maladies de peau"
+    ],
+    "description": "Racine venant du Brésil et du Mexique. Dépuratif très recommandé pour tous les vices du sang et surtout dans la syphilis.",
+    "preparation": "Décoction : 70 grammes par litre d'eau, faire bouillir jusqu'à réduction de moitié. Préférer la décoction à l'infusion."
+  },
+  {
+    "remede": "Saponaire officinale",
+    "symptomes": [
+      "jaunisse",
+      "syphilis",
+      "maladies du foie",
+      "maladies de la rate",
+      "hystérie",
+      "maladies de langueur"
+    ],
+    "description": "En décoction forte, sert à détacher les vêtements (herbe à foulon). La même décoction est dépurative, relève l'appétit, facilite la fonte des engorgements. La jaunisse est guérie en 5 à 8 jours en buvant un litre par jour.",
+    "preparation": "Pour la jaunisse : infuser 60 grammes de toute la plante dans un litre d'eau bouillante 10 minutes. Boire un litre par jour et un litre de limonade en plus."
+  },
+  {
+    "remede": "Sauge officinale",
+    "symptomes": [
+      "digestion difficile",
+      "maladies de peau (dartres, eczéma, boutons, gale, teigne, pelade)",
+      "sueurs nocturnes",
+      "diarrhées des enfants à la mamelle",
+      "ulcères des jambes"
+    ],
+    "description": "La décoction de sauge excite la chaleur à l'estomac, facilite la digestion, fait circuler le sang plus vite. À l'extérieur, guérit toutes les maladies de peau. Les Chinois et Japonais préfèrent la sauge au thé.",
+    "preparation": "Usage interne : 35 grammes pour un litre d'eau, prise après le repas. Usage externe pour la peau : 100 grammes pour un litre d'eau, laver les parties affectées. Pour les ulcères des jambes : compresses imbibées dans du vin cuit avec des feuilles de sauge et du miel."
+  },
+  {
+    "remede": "Semen-contra",
+    "symptomes": [
+      "vers intestinaux (enfants)"
+    ],
+    "description": "Produit des capitules des armoises cultivées en Judée et Perse. La santonine qu'on en retire est actuellement très employée comme vermifuge. Les fleurs d'absinthes et armoises peuvent au besoin le remplacer.",
+    "preparation": "Administrer aux enfants selon les indications. Les fleurs d'absinthe ou armoise peuvent remplacer le semen-contra."
+  },
+  {
+    "remede": "Serpolet",
+    "symptomes": [
+      "hémorragie nasale",
+      "maladies de peau",
+      "épuisement du sang",
+      "manque d'appétit",
+      "mauvaise digestion",
+      "vents"
+    ],
+    "description": "La poudre de serpolet introduite dans le nez arrête les hémorragies nasales. En bains, très utile dans les maladies de peau et l'épuisement du sang. Son infusion est excitante et fortifiante.",
+    "preparation": "Pour le saignement de nez : introduire la poudre dans le nez. Infusion : 15 grammes par litre d'eau. Un verre avant le repas donne de l'appétit, un verre après facilite la digestion et fait disparaître les vents."
+  },
+  {
+    "remede": "Sureau (fleurs)",
+    "symptomes": [
+      "rhume",
+      "toux",
+      "fièvres (sudation)"
+    ],
+    "description": "Les fleurs fraîches de sureau sont légèrement purgatives. Sèches, elles deviennent sudorifiques. L'infusion de fleurs provoque des sueurs abondantes et soulage le rhume et la toux.",
+    "preparation": "Infusion : 10 grammes de fleurs par litre d'eau. Prendre un grand verre le soir en se mettant au lit pour le rhume et la toux."
+  },
+  {
+    "remede": "Tanaisie",
+    "symptomes": [
+      "vers intestinaux",
+      "puces et punaises (usage externe)",
+      "fièvres"
+    ],
+    "description": "Ses feuilles, fleurs et semences sont toniques, stimulantes, stomachiques, vermifuges et sudorifiques. Les feuilles cuites dans de l'eau, de la bière ou du vin, et appliquées en cataplasmes sur le ventre, agissent énergiquement comme vermifuge. Répandue entre les matelas, chasse les puces et punaises.",
+    "preparation": "Infusion : 25 grammes par litre d'eau. Cataplasme de feuilles cuites dans eau, bière ou vin, appliqué sur le ventre contre les vers. Répandre entre les matelas pour chasser les parasites."
+  },
+  {
+    "remede": "Tilleul (fleurs)",
+    "symptomes": [
+      "migraine",
+      "vertiges",
+      "lourdeurs de tête",
+      "mauvaises digestions",
+      "agacements nerveux",
+      "convulsions des enfants",
+      "diarrhée chronique"
+    ],
+    "description": "L'infusion de fleurs de tilleul est très utile dans la migraine, les vertiges et les agacements nerveux. Les bains de fleurs de tilleul sont très utiles pour les convulsions des petits enfants. Cazin a vu cesser une diarrhée chronique par des lavements de décoction de tilleul.",
+    "preparation": "Infusion : 25 à 30 grammes pour un litre d'eau. Les fleurs doivent être ramassées par beau temps et séchées à l'ombre. Bains tièdes de fleurs de tilleul pour les convulsions des enfants."
+  },
+  {
+    "remede": "Valériane",
+    "symptomes": [
+      "épilepsie",
+      "spasmes d'estomac",
+      "convulsions des enfants",
+      "polydipsie (soif excessive)"
+    ],
+    "description": "La poudre de racine de valériane est très employée dans l'épilepsie, les spasmes d'estomac et les convulsions des enfants. Elle guérit la polydipsie (soif excessive avec urines abondantes non sucrées, distincte du diabète). Scopoli, Gilibert et d'autres savants assurent avoir guéri plusieurs épileptiques avec la valériane.",
+    "preparation": "Poudre de racine : 2 à 5 grammes mélangée avec un peu de miel."
+  },
+  {
+    "remede": "Vélar",
+    "symptomes": [
+      "catarrhe chronique du poumon",
+      "enrouement",
+      "extinction de voix"
+    ],
+    "description": "Les feuilles sont stimulantes et expectorantes. Grand succès dans le catarrhe chronique du poumon et surtout dans l'enrouement et les extinctions de voix survenant après des fatigues du larynx (chanteurs, orateurs).",
+    "preparation": "Infusion : 50 à 60 grammes par litre d'eau. Boire tiède toutes les fois que la fièvre se fait sentir jusqu'à la guérison. Ajouter un peu de miel au lieu de sucre."
+  },
+  {
+    "remede": "Verveine",
+    "symptomes": [
+      "point de côté",
+      "entorse"
+    ],
+    "description": "Fraîche et pilée avec du vinaigre, ou sèche et cuite avec du vinaigre, appliquée sur un point de côté ou une entorse, elle en facilite beaucoup la guérison. Aussi amère, aromatique et légèrement astringente.",
+    "preparation": "Appliquer la verveine fraîche pilée avec du vinaigre, ou sèche cuite avec du vinaigre, sur le point de côté ou l'entorse."
+  },
+  {
+    "remede": "Vigne (feuilles et raisin)",
+    "symptomes": [
+      "hémorragies rebelles",
+      "dysenterie",
+      "vomissements de sang",
+      "inflammation des yeux",
+      "affections de poitrine",
+      "maux de gorge"
+    ],
+    "description": "Les pépins triturés sont populaires contre la dysenterie et les vomissements de sang. Les feuilles séchées et réduites en poudre constituent un remède radical contre les hémorragies rebelles. De jeunes sarments s'écoule un suc bon pour guérir l'inflammation des yeux. Le raisin sec est excellent pectoral.",
+    "preparation": "Feuilles en poudre pour les hémorragies. Suc des sarments pour les yeux inflammés. Le vinaigre de vin en gargarismes pour les maux de gorge. En bains de pieds pour les brûlures légères."
+  },
+  {
+    "remede": "Violette odorante",
+    "symptomes": [
+      "affections de poitrine",
+      "constipation légère",
+      "vomissements (racine)"
+    ],
+    "description": "L'infusion de fleurs de violette constitue un remède populaire contre les affections de la poitrine ; elle est béchique, émolliente et légèrement laxative. La racine de violette est vomitive et peut très bien remplacer l'ipéca.",
+    "preparation": "Infusion de fleurs pour les affections de poitrine. Racine comme vomitif en remplacement de l'ipéca."
+  },
+  {
+    "remede": "Vipérine",
+    "symptomes": [
+      "maladies des voies urinaires",
+      "inflammation (adoucissant)"
+    ],
+    "description": "Peut au besoin remplacer la bourrache, quoique moins efficace. Son infusion peut aussi être employée comme diurétique et adoucissante.",
+    "preparation": "Infusion : 40 grammes de fleurs pour un litre d'eau."
+  },
+  {
+    "remede": "Abcès (traitement général)",
+    "symptomes": [
+      "abcès",
+      "anthrax",
+      "collection de pus"
+    ],
+    "description": "Collection de pus développée dans les tissus, résultat d'une inflammation locale. Se manifeste par douleur, chaleur et fièvre.",
+    "preparation": "Cataplasmes de pain et de lait, ou de lin, de morelle noire pilée, d'oignon cuit sous la cendre. Appliquer bien chauds et renouveler toutes les heures. Prendre un dépuratif."
+  },
+  {
+    "remede": "Sel de cuisine et poireau (piqûres)",
+    "symptomes": [
+      "piqûres d'abeilles",
+      "morsures de vipère",
+      "piqûres venimeuses"
+    ],
+    "description": "Pour les piqûres venimeuses, extraire d'abord le dard. Frotter vivement une tête de poireau sur la piqûre pendant une minute ; l'acide du poireau décompose le venin. Ou appliquer du sel de cuisine mouillé de salive directement sur la piqûre.",
+    "preparation": "Poireau : couper une tête en deux et frotter vivement sur la piqûre pendant une minute. Sel : mouiller de la salive et appliquer. Pour l'enflure déjà formée : décoction de deuxième écorce de frêne, boire un demi-litre et utiliser l'autre pour laver la partie enflée."
+  },
+  {
+    "remede": "Sauge, menthe, tilleul, fleurs d'oranger (âge critique)",
+    "symptomes": [
+      "ménopause",
+      "suppression naturelle des règles",
+      "pertes abondantes"
+    ],
+    "description": "L'âge critique ou retour d'âge est la suppression naturelle des règles vers 45 ans. Les femmes doivent éviter les fatigues excessives, prendre de légers purgatifs et des tisanes.",
+    "preparation": "Tisanes de sauge, de menthe, de tilleul, de fleurs d'oranger. Si les pertes sont trop abondantes, voir le traitement spécial des pertes."
+  },
+  {
+    "remede": "Fleurs de genêt, gratteron, herniaire, queues de cerises, réglisse (albuminurie)",
+    "symptomes": [
+      "albuminurie"
+    ],
+    "description": "Présence anormale d'albumine dans les urines. L'urine chauffée se coagule en donnant un dépôt floconneux.",
+    "preparation": "Tisane diurétique : fleurs de genêt 10 grammes, gratteron 25 grammes, herniaire 25 grammes, queues de cerises 25 grammes, bois de réglisse un morceau. Pour deux litres d'eau, faire bouillir 5 à 6 minutes, couvrir, passer quand froide. Boire un litre par jour jusqu'à guérison."
+  },
+  {
+    "remede": "Camomille, anîs et tisanes aromatiques (ivresse/nausée)",
+    "symptomes": [
+      "ivresse",
+      "nausées"
+    ],
+    "description": "En cas d'ivresse accidentelle, vomir immédiatement en mettant le doigt au gosier, puis prendre un bol de thé ou de camomille.",
+    "preparation": "Faire vomir, puis boire un verre d'eau sucrée avec 8 à 10 gouttes d'ammoniaque liquide, ou un bol de thé ou de camomille."
+  },
+  {
+    "remede": "Citron (rhume de cerveau)",
+    "symptomes": [
+      "rhume de cerveau",
+      "prévention de l'érysipèle et du rhume de poitrine"
+    ],
+    "description": "Couper un citron en deux, presser la moitié dans la main et renifler fortement le jus. On guérit ainsi le rhume de cerveau et on prévient presque toujours l'érysipèle et le rhume de poitrine.",
+    "preparation": "Couper un citron en deux, presser la moitié et renifler fortement le jus. Faire de même avec l'autre moitié. Alternative : se graisser le nez avec du suif en se couchant et boire deux bols d'infusion de sureau pour provoquer la transpiration."
+  },
+  {
+    "remede": "Suif et infusion de sureau (rhume de cerveau)",
+    "symptomes": [
+      "rhume de cerveau"
+    ],
+    "description": "Se graisser le nez en se couchant avec du suif et boire deux bols d'infusion de sureau afin de provoquer la transpiration.",
+    "preparation": "Graisser le nez avec du suif au coucher. Boire deux bols d'infusion de sureau pour provoquer la transpiration. Le lendemain éviter le passage brusque d'une température chaude à froide."
+  },
+  {
+    "remede": "Sirop de poireaux (croup, coqueluche)",
+    "symptomes": [
+      "croup",
+      "coqueluche",
+      "grippe de l'enfant"
+    ],
+    "description": "Remède d'usage courant en Alsace depuis des siècles. Faire cuire 4 ou 5 poireaux dans 3 litres d'eau, filtrer, ajouter une livre de sucre en poudre et réduire des deux tiers sur le feu pour obtenir un sirop.",
+    "preparation": "Faire cuire 4 ou 5 poireaux moyens dans 3 litres d'eau, filtrer, ajouter une livre de sucre en poudre, réduire des deux tiers. Donner aux enfants une cuillerée à bouche toutes les demi-heures. Alternative : fleur de soufre délayée dans de l'eau, une cuillerée à café, une cuillerée à bouche toutes les demi-heures."
+  },
+  {
+    "remede": "Tisane de mauve, guimauve, violettes (bronchites et rhumes)",
+    "symptomes": [
+      "bronchites",
+      "rhumes",
+      "toux"
+    ],
+    "description": "Dès qu'un malade tousse avec malaise général et frissons de rhume de cerveau, il faut le tenir au chaud, au lit si possible, et lui donner des tisanes adoucissantes sucrées avec du miel.",
+    "preparation": "Tisanes adoucissantes : mauve, guimauve, violettes, quatre-fleurs, sucrées avec du miel. Ou faire bouillir dans 2 litres d'eau une bonne poignée d'aigremoine pendant 5 à 6 minutes, boire un grand verre le matin, un après le repas de midi, un après le soir, tiède et sucré au miel."
+  },
+  {
+    "remede": "Acide picrique ou lait (brûlures)",
+    "symptomes": [
+      "brûlures"
+    ],
+    "description": "L'acide picrique en sel dissout dans l'eau froide supprime instantanément la douleur, évite les plaies et ampoules, guérison complète en 3 à 5 jours. Le lait en immersion ou en compresses sur la brûlure est aussi très efficace.",
+    "preparation": "Acide picrique : dissoudre dans un litre d'eau froide, laver la partie brûlée. Lait : plonger la partie brûlée dans du lait ou couvrir de compresses imbibées de lait jusqu'à ce que toute douleur ait cessé."
+  },
+  {
+    "remede": "Magnésie calcinée et feuilles d'oranger (cauchemars/insomnie)",
+    "symptomes": [
+      "cauchemars",
+      "insomnie",
+      "digestion difficile nocturne"
+    ],
+    "description": "Le cauchemar est souvent occasionné par une digestion difficile. Faciliter la digestion le soir, faire un repas très léger. La magnésie calcinée dans un verre d'eau sucrée normalise les fonctions digestives. L'infusion de feuilles d'oranger ou de mélisse avant de dormir est également conseillée.",
+    "preparation": "Magnésie : une heure après le repas du soir, boire un gramme de magnésie calcinée délayée dans un verre d'eau sucrée. Infusion de feuilles d'oranger ou de mélisse : 4 à 5 feuilles pour une grande personne. Préparer comme le thé, prendre pendant 4 jours de suite avant de se coucher."
+  },
+  {
+    "remede": "Chlorate de potasse (angine gutturale)",
+    "symptomes": [
+      "angine gutturale",
+      "maux de gorge"
+    ],
+    "description": "Inflammation de l'arrière-bouche. Répéter très souvent un gargarisme composé avec une tisane de feuilles d'aigremoine, ronce ou toute autre plante astringente avec un peu de miel. On peut aussi employer des gargarismes avec du chlorate de potasse.",
+    "preparation": "Gargarisme d'aigremoine ou de ronce avec du miel, très fréquemment répété. Alternative : gargarismes avec du chlorate de potasse."
+  },
+  {
+    "remede": "Sinapismes aux membres et compresses froides (apoplexie)",
+    "symptomes": [
+      "apoplexie",
+      "coup de sang",
+      "congestion cérébrale"
+    ],
+    "description": "En attendant le médecin : débarrasser le malade des vêtements, le transporter avec peu de secousses dans une chambre fraîche. Appliquer des sinapismes aux jambes ou des bains de pieds avec eau bouillante, vinaigre et moutarde. Appliquer sur la tête des compresses d'eau froide ou de glace.",
+    "preparation": "Sinapismes aux jambes, à la partie interne du mollet et aux cuisses. Bains de pieds avec eau bouillante, vinaigre, cendre ou moutarde. Compresses d'eau froide ou glace pilée sur la tête. Maintenir la tête et la poitrine élevées, tête découverte."
+  },
+  {
+    "remede": "Hysope, mélisse et lierre terrestre (asthme)",
+    "symptomes": [
+      "asthme chronique"
+    ],
+    "description": "Pour les accès chroniques d'asthme : débarrasser l'estomac et les intestins par de fréquents purgatifs et prendre le soir en se couchant une tasse de tisane d'hysope, de lierre terrestre ou de mélisse avec du miel.",
+    "preparation": "Tisane d'hysope, de lierre terrestre ou de mélisse avec du miel, une tasse le soir en se couchant. Éviter l'humidité. Ouvrir largement les fenêtres pendant les accès."
+  },
+  {
+    "remede": "Valériane et eau de mélisse (attaques de nerfs)",
+    "symptomes": [
+      "crises nerveuses",
+      "attaques de nerfs",
+      "agitation"
+    ],
+    "description": "Coucher le malade horizontalement, la tête abaissée. Aspersions d'eau froide sur la figure, faire respirer de l'éther ou du vinaigre. Lorsque la connaissance revient, faire boire de l'eau sucrée additionnée d'une cuillerée à café d'eau de mélisse par tasse.",
+    "preparation": "Premiers soins : coucher horizontalement, aspersions d'eau froide, vinaigre à respirer, dégager le cou. Eau sucrée avec eau de mélisse quand la connaissance revient. Traitement sur 1 mois : tisane de valériane additionnée d'un sédatif, 3 à 4 fois par jour."
+  },
+  {
+    "remede": "Tisane de serpolet, marrube, mille-pertuis (bile)",
+    "symptomes": [
+      "mauvaise bile",
+      "troubles biliaires"
+    ],
+    "description": "Quand la mauvaise bile ne peut être rendue et séjourne trop longtemps dans l'estomac, il faut boire des tisanes de serpolet, de marrube, de mille-pertuis et se purger.",
+    "preparation": "Tisanes de serpolet, de marrube ou de mille-pertuis. Se purger."
+  },
+  {
+    "remede": "Racines d'asperges (maladies du cœur)",
+    "symptomes": [
+      "maladies du cœur",
+      "palpitations cardiaques"
+    ],
+    "description": "Tous les matins au saut du lit, et jusqu'à guérison complète, boire un grand verre de tisane d'asperges. Un deuxième verre avant le repas du soir. De nombreuses personnes atteintes de palpitations ont été guéries.",
+    "preparation": "Décoction : 50 grammes de racines d'asperges bouillies 4 à 5 minutes dans un litre d'eau, couvrir, passer quand tiède. Boire froid (on peut sucrer). Un grand verre le matin, un autre avant le repas du soir."
+  },
+  {
+    "remede": "Tisane d'anis et de camomille (coliques)",
+    "symptomes": [
+      "coliques venteuses",
+      "coliques nerveuses",
+      "coliques hépatiques et néphrétiques"
+    ],
+    "description": "Pour les coliques venteuses : lavements et boissons avec une infusion d'anis et de camomille, serviettes chaudes sur le ventre, frictions stimulantes. Pour les coliques nerveuses : onctions avec huile camphrée, cataplasmes, tisanes de tilleul et de camomille.",
+    "preparation": "Coliques venteuses : infusion d'anis et camomille en boisson et en lavement, serviettes chaudes sur le ventre. Coliques nerveuses : huile camphrée sur le ventre, tisanes de tilleul ou camomille. Coliques hépatiques : bains prolongés, fomentations d'huile de camomille camphrée, cataplasmes."
+  },
+  {
+    "remede": "Feuilles de frêne (constipation)",
+    "symptomes": [
+      "constipation"
+    ],
+    "description": "Un bon moyen pour régulariser les selles : prendre chaque matin à jeun un verre de tisane de feuilles de frêne pendant 8 à 10 jours.",
+    "preparation": "Infusion de feuilles de frêne, un verre chaque matin à jeun pendant 8 à 10 jours. Pour les nourrissons : une cuillerée à bouche d'huile d'olive le matin à jeun."
+  },
+  {
+    "remede": "Oignon du lis ou lierre dans vinaigre (cors aux pieds)",
+    "symptomes": [
+      "cors aux pieds",
+      "durillons",
+      "oignons aux pieds"
+    ],
+    "description": "Prendre l'oignon du lis, le piler et l'appliquer en guise de pommade sur le cor. Autre remède : tremper des feuilles de lierre grimpant ou des queues de poireau dans du fort vinaigre toute une journée, puis appliquer sur le cor.",
+    "preparation": "Méthode 1 : piler l'oignon du lis et appliquer en pommade sur le cor. Méthode 2 : tremper feuilles de lierre ou queues de poireau dans du fort vinaigre une journée, appliquer sur le cor avec une bandelette de toile jusqu'au lendemain. Enlever délicatement le cor ramolli. Si douleur résiduelle : frotter avec un morceau d'oignon de lis 10 minutes."
+  },
+  {
+    "remede": "Tisane adoucissante et houblon (dartres, eczéma)",
+    "symptomes": [
+      "dartres",
+      "eczéma"
+    ],
+    "description": "Inflammation chronique de la peau indiquant généralement un mauvais fonctionnement des voies digestives. Guérir en purgeant le malade et en lui faisant prendre des tisanes dépuratives (houblon, salsepareille).",
+    "preparation": "Tisanes dépuratives : houblon, salsepareille. Extérieurement : lotions avec une pommade antidartreuse, ou lavage avec la tisane de sauge. Pour le traitement : faire bouillir dans un demi-litre de vin rouge ou blanc une bonne poignée de feuilles de lierre grimpant (ou 4 à 5 têtes de pavot), ajouter une forte pincée de sel, passer."
+  },
+  {
+    "remede": "Eau borique et sparadrap (coupures et blessures)",
+    "symptomes": [
+      "coupures",
+      "blessures légères"
+    ],
+    "description": "Laisser saigner un peu, laver avec de l'eau tiède additionnée de quelques cuillerées d'eau boriquée, sécher en essuyant, rapprocher les lèvres de la plaie et les maintenir avec de petites bandelettes de sparadrap recouvert d'ouate hydrophile boriquée, consolider à l'aide d'une bande de toile. Arroser ensuite de temps en temps avec de l'eau boriquée.",
+    "preparation": "1. Laisser saigner légèrement. 2. Laver avec eau tiède + eau boriquée. 3. Sécher. 4. Rapprocher les bords et maintenir avec sparadrap et ouate boriquée. 5. Bander. 6. Arroser périodiquement avec eau boriquée."
+  },
+  {
+    "remede": "Tisanes de bourrache, tilleul (courbature)",
+    "symptomes": [
+      "courbature",
+      "lassitude générale"
+    ],
+    "description": "Sensation de brisement dans tous les membres. La courbature se guérit surtout par le repos, de grands bains tièdes, des boissons sudorifiques (tisane de tilleul ou de bourrache), des frictions et le massage.",
+    "preparation": "Repos. Grands bains tièdes. Tisane de tilleul ou de bourrache. Frictions et massage."
+  },
+  {
+    "remede": "Sel commun et moutarde (empoisonnement aux champignons)",
+    "symptomes": [
+      "empoisonnement aux champignons"
+    ],
+    "description": "Mélanger rapidement une grosse cuillerée de sel commun et autant de moutarde dans une cuillerée d'eau. Faire avaler au malade. Cette mixture agit comme émétique, ramenant tout ce que contient l'estomac.",
+    "preparation": "Mélanger une grosse cuillerée de sel commun et une grosse cuillerée de moutarde dans une cuillerée d'eau chaude ou froide. Faire avaler. Quand l'estomac est tranquille : blanc d'oeuf, puis une tasse de fort café."
+  },
+  {
+    "remede": "Tisane dépurative (anémie, chlorose)",
+    "symptomes": [
+      "anémie",
+      "chlorose",
+      "pâles couleurs",
+      "jaunisse",
+      "sang appauvri"
+    ],
+    "description": "L'anémie, la chlorose et toutes les maladies dues à la pauvreté du sang sont faciles à guérir. Se laver à l'eau froide salée tous les matins. Manger de bons potages, viandes grillées, boire du vin généreux.",
+    "preparation": "Se laver à l'eau froide salée chaque matin et s'essuyer fortement jusqu'à faire rougir la peau. Bons potages de filet de boeuf ou vieilles volailles. Vin généreux ou eau ferrée (vieux clous rouillés dans eau de fontaine). Promenades au grand air. Purgatif léger (2 à 3 grammes de rhubarbe) tous les trois jours."
+  },
+  {
+    "remede": "Jus de citron ou eau phéniquée (croup/diphtérie, premiers soins)",
+    "symptomes": [
+      "croup",
+      "diphtérie (premiers soins)"
+    ],
+    "description": "Si on ne peut avoir le médecin immédiatement, badigeonner les surfaces malades avec un pinceau imbibé de jus de citron ou d'eau phéniquée. Ou dissolution concentrée de chlorate de potasse ou d'alun.",
+    "preparation": "Badigeonner la gorge avec un pinceau imbibé de jus de citron, d'eau phéniquée, de dissolution concentrée de chlorate de potasse ou d'alun. Employer des vomitifs. Térébenthine et goudron végétal faits bouillir en vase pour remplir la chambre de vapeurs."
+  },
+  {
+    "remede": "Feuilles de chou (douleurs localisées, lumbago)",
+    "symptomes": [
+      "lumbago",
+      "douleurs dans les reins",
+      "douleurs articulaires",
+      "douleurs localisées"
+    ],
+    "description": "Remède très employé dans une infinité de régions pour guérir les douleurs fixes localisées telles que le lumbago, la douleur dans un genou ou sur les épaules.",
+    "preparation": "Faire bouillir des feuilles de chou avec du lait jusqu'à ce que le lait et le chou ne forment qu'une marmelade. Étendre sur un morceau de toile ou de flanelle et appliquer bien chaud sur la partie souffrante. Enlever au bout de dix heures : la douleur est disparue."
+  },
+  {
+    "remede": "Bardane en décoction (douleurs rhumatismales et goutte)",
+    "symptomes": [
+      "rhumatismes",
+      "goutte",
+      "douleurs articulaires"
+    ],
+    "description": "Le meilleur moyen de calmer les douleurs rhumatismales et la goutte consiste à boire chaque matin une décoction de racines sèches de bardane. On boit un verre ordinaire quand on a soif dans la journée, un litre au moins par jour.",
+    "preparation": "Faire bouillir 120 grammes de racines sèches de bardane dans deux litres d'eau ou de bière pendant cinq minutes. Passer la tisane, tenir au frais et en boire un verre ordinaire dans la journée quand on a soif."
+  },
+  {
+    "remede": "Pied de céleri et bouillon-blanc (engelures, gerçures, crevasses)",
+    "symptomes": [
+      "engelures",
+      "gerçures",
+      "crevasses"
+    ],
+    "description": "Prendre un pied de céleri tout entier, le faire bouillir une heure dans environ trois litres d'eau. Bien laver soir et matin les parties malades. Guérison en six ou huit jours. Autre remède : feuilles de bouillon-blanc bouillies dans du lait.",
+    "preparation": "Méthode 1 : faire bouillir un pied de céleri entier dans 3 litres d'eau pendant 1 heure. Laver soir et matin les parties malades. Méthode 2 : faire bouillir une grosse poignée de feuilles de bouillon-blanc dans un litre de lait pendant 10 minutes. Avant de se mettre au lit, laver les parties malades sans les sécher. Soulagement dès la première fois, guérison en moins de huit jours."
+  },
+  {
+    "remede": "Eau froide avec extrait de saturne et cataplasmes émollients (entorses)",
+    "symptomes": [
+      "entorses",
+      "foulures",
+      "enflure"
+    ],
+    "description": "Pour empêcher l'enflure, plonger aussitôt la partie blessée dans de l'eau froide dans laquelle on dissout 80 grammes d'extrait de saturne, puis l'envelopper de compresses d'eau-de-vie camphrée. Combattre ensuite l'inflammation avec des émollients.",
+    "preparation": "Immédiatement : plonger la partie blessée dans eau froide avec 80 g d'extrait de saturne, puis compresses d'eau-de-vie camphrée. Ensuite : cataplasmes de farine de graine de lin ou de racine de guimauve. Repos complet, diète et boissons rafraîchissantes."
+  },
+  {
+    "remede": "Serpolet, marrube, mille-pertuis (maux d'estomac)",
+    "symptomes": [
+      "maux d'estomac",
+      "digestion difficile",
+      "biles",
+      "aigreurs",
+      "pituites",
+      "manque d'appétit"
+    ],
+    "description": "Tous les maux d'estomac à leur début disparaîtront en peu de jours si vous prenez une infusion de serpolet au lieu de café ou de thé. L'infusion de pariétaire ou de fumeterre le matin à jeun fait disparaître en cinq ou six jours les biles ou la pituite, les aigreurs et redonne l'appétit.",
+    "preparation": "Infusion de serpolet : préparer comme le tilleul ou le thé, sucrer et ajouter quelques gouttes de rhum ou de kirsch. Pariétaire ou fumeterre : un verre le matin à jeun. Marrube blanc : 30 ou 35 grammes dans un litre d'eau, un verre le matin à jeun, un à midi et un le soir une demi-heure avant le repas. Seulement trois jours de suite (9 verres en tout). Mille-pertuis : faire bouillir une grosse poignée dans un litre d'eau jusqu'à réduction à un grand verre, boire froid sans sucre chaque matin à jeun pendant 8 à 10 jours."
+  },
+  {
+    "remede": "Teinture d'iode et cataplasmes de farine de lin (furoncles, anthrax)",
+    "symptomes": [
+      "furoncles",
+      "anthrax",
+      "clous"
+    ],
+    "description": "Pour arrêter le furoncle au début, quelques applications de teinture d'iode recouvertes d'ouate hydrophile. Si la chose n'est plus possible, hâter la maturation par les bains tièdes et les cataplasmes. Généralement un clou ne vient jamais seul : suivre un traitement dépuratif et tonique.",
+    "preparation": "Au début : applications de teinture d'iode recouvertes de ouate hydrophile. Phase de maturation : bains tièdes, cataplasmes de farine de lin ou de mie de pain, ou de lait. Suivi d'un traitement dépuratif général."
+  },
+  {
+    "remede": "Bains locaux froids et régime (hémorroïdes)",
+    "symptomes": [
+      "hémorroïdes"
+    ],
+    "description": "Tumeurs dues à la dilatation anormale des veines au pourtour de l'anus. On les évite en allant régulièrement aux cabinets sans y rester trop longtemps. Régime sévère, pas d'excitants, bains locaux froids.",
+    "preparation": "Régime strict sans excitants. Bains locaux froids sur la partie douloureuse. Aller régulièrement aux cabinets sans y rester longtemps."
+  },
+  {
+    "remede": "Ipéca et tisanes de camomille ou mélisse (indigestions)",
+    "symptomes": [
+      "indigestion",
+      "pesanteur à l'estomac",
+      "nausées",
+      "hoquet",
+      "rapports acides"
+    ],
+    "description": "Sensation de pesanteur, de plénitude, avec douleur et chaleur au creux de l'estomac, dégoût et nausées, hoquet, rapports acides, maux de tête. Faciliter les vomissements si nécessaire.",
+    "preparation": "Faciliter les vomissements. Donner au besoin un gramme de poudre d'ipéca. Calmer les coliques par des cataplasmes. Infusions de thé, de camomille ou de mélisse par petites tasses."
+  },
+  {
+    "remede": "Tisane de sauge, serpolet, décoction d'écorce de chêne (maladies de peau détaillées)",
+    "symptomes": [
+      "eczéma",
+      "psoriasis",
+      "sycosis",
+      "pelade",
+      "acné",
+      "ulcères variqueux",
+      "gourme des enfants",
+      "maladies de la peau"
+    ],
+    "description": "Les maladies de peau sont souvent dues à l'âcreté du sang, une mauvaise digestion, une circulation défectueuse ou des manifestations rhumatismales. Laver les parties malades avec une décoction de feuilles de sauge ou d'écorce de chêne. Dans les cas d'ulcères, prendre tous les deux jours des bains de jambes dans de l'eau très chaude.",
+    "preparation": "Laver les parties malades avec une décoction de feuilles de sauge ou d'écorce de chêne. Pour les ulcères : bains de jambes tous les deux jours dans eau très chaude (ou décoction de sauge, serpolet ou marjolaine). Boire tisane de pensées sauvages, de centaurée ou de bardane. Traitement au sel : faire bouillir 30 grammes d'écorce de chêne dans un litre et demi d'eau jusqu'à réduction à un litre, laver avec ce liquide tiède trois fois par jour."
+  },
+  {
+    "remede": "Tisane de poireaux et pariétaire (pierre, gravelle)",
+    "symptomes": [
+      "pierre",
+      "gravelle",
+      "calculs urinaires"
+    ],
+    "description": "Dans deux litres d'eau, faire bouillir une grosse poignée de têtes de poireaux (tout le blanc) avec une noix de beurre frais et une pincée de sel. En boire un grand bol tous les matins à jeun. Quand on a soif dans la journée, boire de la tisane de pariétaire.",
+    "preparation": "Faire bouillir une grosse poignée de têtes de poireaux (blanc uniquement) avec une noix de beurre frais et une pincée de sel dans 2 litres d'eau pendant 20 minutes. Boire un grand bol chaque matin à jeun. Boire de la tisane de pariétaire pour la soif dans la journée. Eviter tout ce qui fatigue l'estomac. Faire du mouvement. Filtrer toujours l'eau de boisson."
+  },
+  {
+    "remede": "Serpolet ou citron appliqué sur les tempes (maux de tête)",
+    "symptomes": [
+      "maux de tête",
+      "céphalées"
+    ],
+    "description": "Les maux de tête proviennent presque toujours de l'estomac ; aussi faut-il soigner l'estomac en premier. Pour calmer la douleur directement : application d'eau sédative sur le front, ou moitié de citron sur chaque tempe maintenu avec un foulard pendant dix à quinze minutes.",
+    "preparation": "Si d'origine gastrique : infusion de serpolet, un verre d'eau fraîche avec quelques gouttes de bon vinaigre. Pour la douleur directe : appliquer une moitié de citron sur la tempe droite et l'autre sur la gauche, maintenir avec un foulard pendant 10 à 15 minutes. Ou application d'eau sédative sur le front."
+  },
+  {
+    "remede": "Eau divine de plantain et roses (maux d'yeux)",
+    "symptomes": [
+      "maux d'yeux",
+      "inflammation des yeux",
+      "ophtalmie"
+    ],
+    "description": "Nos ancêtres employaient le grand plantain et les feuilles de roses pour toutes les maladies des yeux. Faire bouillir le plantain entier dans un litre de vin rouge ou blanc pendant une demi-heure, et les feuilles de roses dans un demi-litre d'eau avec du sel, puis mélanger les deux tisanes pour obtenir l'Eau divine pour les yeux.",
+    "preparation": "Eau divine : faire bouillir pendant 30 min un gros paquet de plantain entier dans un litre de vin rouge ou blanc. D'un autre côté, faire bouillir pendant 5 min une bonne poignée de feuilles de roses dans un demi-litre d'eau avec une cuillerée à café de sel. Mélanger les deux tisanes passées. Soir et matin, tiédir 4 cuillerées, mettre dans un verre ordinaire, appliquer sur l'œil malade en remuant la tête dans tous les sens pendant 4 à 5 minutes. Guérison en 6 à 8 jours."
+  },
+  {
+    "remede": "Café noir au citron ou valériane (migraine)",
+    "symptomes": [
+      "migraine",
+      "accès de migraine"
+    ],
+    "description": "Un verre de café noir très fort dans lequel on ajoute le jus d'un citron, bu par petites gorgées, donne ordinairement de bons résultats. L'infusion de tilleul avec de la fleur d'oranger est aussi efficace. La valériane en poudre mélée à du miel avalée coupait l'accès. La poudre de nielle (plante qui pousse dans les blés) en prises coupait l'accès en un quart d'heure.",
+    "preparation": "Café noir très fort + jus d'un citron, boire par petites gorgées. Ou infusion de tilleul (20 g par litre) avec fleur d'oranger. Ou 5 grammes de poudre de racines de valériane dans un peu de miel. Ou poudre de nielle : prendre une bonne prise de poudre de nielle toutes les cinq minutes."
+  },
+  {
+    "remede": "Régime alimentaire simple (neurasthénie, épuisement nerveux)",
+    "symptomes": [
+      "neurasthénie",
+      "épuisement nerveux",
+      "nervosisme",
+      "névropathie",
+      "maux de tête persistants",
+      "insomnie résistante",
+      "dépression",
+      "vertiges",
+      "névralgies"
+    ],
+    "description": "Maladie accompagnée d'affaiblissement général : maux de tête durant toute la journée, douleurs dans les reins, dépression mentale, fatigue générale, troubles digestifs, insomnie. Les repas doivent être simples et sans excitants, les légumes très cuits, les petits repas intercalés radicalement supprimés.",
+    "preparation": "Régime : repas simples sans excitants, légumes très cuits, supprimer les petits repas. Boissons : vin blanc léger avec moitié eau, bière ou lait ; pas de thé, pas de café. Éviter la surexcitation nerveuse."
+  },
+  {
+    "remede": "Tisane de marrube (obésité)",
+    "symptomes": [
+      "obésité",
+      "embonpoint excessif"
+    ],
+    "description": "L'obésité ou embonpoint excessif altère la santé. Éviter les farineux, manger plus de croûte que de mie et boire peu au repas (un litre de liquide au maximum par 24 heures). Prendre chaque jour trois ou quatre tasses de tisane de marrube.",
+    "preparation": "Régime sévère : éviter les farineux, privilégier les croûtes de pain, boire un litre de liquide maximum par 24 heures. Tisane de marrube : 3 à 4 tasses par jour."
+  },
+  {
+    "remede": "Oeuf frais ou figue sèche dans lait (panaris, tourniole, furoncle)",
+    "symptomes": [
+      "panaris",
+      "tourniole",
+      "mal blanc",
+      "mal d'aventure",
+      "furoncle au doigt"
+    ],
+    "description": "Le panaris est une tumeur qui se développe sur le doigt. Retirer immédiatement les bagues du doigt. Enfoncer le doigt malade dans un oeuf de poule frais coupé au bout : l'oeuf est cuit en quelques heures par la chaleur de la fièvre et le panaris n'a pas de suites. Tremper le doigt dans l'alcool camphré calme souvent la douleur en quelques minutes.",
+    "preparation": "Méthode 1 : couper le bout d'un oeuf frais, enfoncer le doigt malade et attacher avec un foulard jusqu'à refroidissement. Méthode 2 : tremper le doigt dans l'alcool camphré. Méthode 3 : couper une grosse figue sèche en deux, la faire tremper 10 minutes dans du lait tiède et l'appliquer côté chair sur la partie malade ; renouveler quelques jours. Méthode 4 : cataplasme de mille-feuilles pilées mélangées avec de la graisse douce et du camphre ; au bout de 10 à 12 jours le panaris sort comme un fil."
+  },
+  {
+    "remede": "Bourse à pasteur, armoise et essence de lavande (pertes blanches, flueurs blanches)",
+    "symptomes": [
+      "pertes blanches",
+      "flueurs blanches",
+      "règles douloureuses"
+    ],
+    "description": "Affection fréquente et fatigante chez les femmes. Éviter la constipation. Injections toniques matin et soir avec de la poudre d'alun (10 g) ou décoction d'écorce de chêne. Le soir avant de se mettre au lit, faire bouillir un verre de lait mélangé à 10 gouttes d'essence de lavande.",
+    "preparation": "Injections : poudre d'alun (10 g) ou une poignée d'écorce de chêne dans un litre d'eau. Tisane de bourse à pasteur ou d'armoise (ou les deux) pour favoriser les règles. Bain de pieds avec du serpolet à jeun. Remède principal : le soir, faire bouillir un verre de lait avec 10 gouttes d'essence de lavande ; laisser tiédir et prendre en lavement vaginal. Répéter le lendemain. Guérison radicale."
+  },
+  {
+    "remede": "Feuilles de frêne, huile d'olive et citron (purgatif doux)",
+    "symptomes": [
+      "constipation",
+      "besoin de se purger"
+    ],
+    "description": "Le meilleur de tous les purgatifs connus, ne donnant ni tranchées, ni malaises, ni inflammations. Pour les enfants en bas âge : miel dans le lait, ou une cuillerée d'huile d'olive à jeun, ou lavement d'huile d'olive.",
+    "preparation": "Pour les grandes personnes : faire bouillir une bonne poignée de feuilles de frêne (fraîches ou sèches) 10 minutes dans un demi-litre d'eau. Passer, ajouter une cuillerée d'huile d'olive et le jus d'un citron. Boire le tout à jeun. Prendre une demi-heure après un bouillon d'herbes (feuilles de chicorée sauvage, eau et huile d'olive). Autre : 3 grammes de poudre de rhubarbe délayée dans un bol de bouillon d'herbes. Pour les enfants en bas âge : sucrer le lait avec du miel, ou une cuillerée d'huile d'olive à jeun."
+  },
+  {
+    "remede": "Tableau des poisons et contre-poisons",
+    "symptomes": [
+      "empoisonnement aux acides",
+      "empoisonnement à l'arsenic",
+      "empoisonnement à la belladone",
+      "empoisonnement au chlore",
+      "empoisonnement à la ciguë",
+      "empoisonnement à la digitale",
+      "empoisonnement aux mercuriaux",
+      "empoisonnement à l'opium",
+      "empoisonnement au phosphore",
+      "empoisonnement à la strychnine"
+    ],
+    "description": "Tableau des principaux poisons et de leurs contre-poisons. Premiers secours contre un poison inconnu : 1° administrer des vomitifs le plus rapidement possible ; 2° purger l'intestin avec de la magnésie calcinée et un lavement purgatif ; 3° donner du lait ou de l'eau albumineuse.",
+    "preparation": "Acides : eau magnésienne ou eau de savon en abondance. Arsenic : faire vomir, hydrate de peroxyde de fer délayé dans eau sucrée, puis magnésie. Belladone : faire vomir, café, vin. Chlore : blancs d'œufs dissous dans l'eau (une dizaine). Ciguë et digitale : faire vomir, café. Mercuriaux : faire vomir, eau albumineuse ou persulfure de fer. Opium/laudanum : décoction concentrée de noix de galle, puis forte infusion de café et exercices. Phosphore : faire vomir, magnésie calcinée en quantité. Strychnine : insufflation d'air dans les poumons, décoction de quinquina. Poison inconnu : vomitifs, puis magnésie calcinée, puis lait ou eau albumineuse (6 blancs d'œufs + 1 litre d'eau)."
+  },
+  {
+    "remede": "Vapeurs de foin humide (rhumatismes - traitement)",
+    "symptomes": [
+      "rhumatismes",
+      "douleurs rhumatismales"
+    ],
+    "description": "Traitement à suivre rigoureusement pendant trois jours de suite. Le matin : purgatif léger. Vers quatre heures du soir : se procurer un kilo de poussière de foin (graines de fourrage), l'humecter avec eau bouillante, appliquer sur la partie souffrante, couvrir les jambes et placer dessous un récipient d'eau bouillante entretenu en ébullition. La vapeur pénètre dans l'organisme par les pores en dissolant les propriétés des plantes.",
+    "preparation": "Jour 1 matin : purgatif léger (feuilles de frêne). Vers 16h : prendre 1 kg de poussière de foin, humecter légèrement à l'eau bouillante, appliquer sur la partie souffrante et maintenir avec des bandelettes de toile. S'asseoir sur une chaise, poser les pieds sur un banc, couvrir les jambes avec des couvertures, placer dessous un récipient d'eau bouillante maintenu à ébullition pendant au moins 20 minutes. Enlever les herbes mais bien envelopper les parties malades dans de la laine lavée ou de la flanelle propre. Éviter le froid et les courants d'air. Le premier jour on est soulagé, au troisième la guérison est complète."
+  },
+  {
+    "remede": "Simarouba en décoction vinaigrée (diarrhée, dysenterie)",
+    "symptomes": [
+      "diarrhée",
+      "dysenterie",
+      "coliques",
+      "selles glaireuses"
+    ],
+    "description": "Plante qui pousse en Guyane. 25 grammes d'écorce de racine de simarouba bouillis dans un litre de vin jusqu'à réduction de moitié. Boire un verre le matin et un le soir à jeun. Guérison en 24 heures. Pour les grandes personnes en cas de dysenterie : faire bouillir un verre d'eau et deux cuillerées de vinaigre jusqu'à réduction de moitié, boire froid le matin à jeun. Pour les enfants : blanc d'œuf délayé dans de l'eau sucrée, puis tisane de riz.",
+    "preparation": "Simarouba : 25 grammes d'écorce de racine dans un litre de vin, bouillir jusqu'à réduction de moitié. Un verre le matin et un le soir à jeun. Pour les grandes personnes (dysenterie) : faire bouillir un verre d'eau et deux cuillerées de vinaigre jusqu'à réduction de moitié, boire froid le matin à jeun en deux fois à 20 minutes de distance. Pour les enfants : blanc d'œuf dans eau sucrée + tisane de riz dans la journée. Si douleurs de ventre vives : cataplasme d'huile de camomille. Ceinture de flanelle, régime alimentaire surveillé."
+  },
+  {
+    "remede": "Maux de dents (lierre, vin et sel - gargarisme)",
+    "symptomes": [
+      "maux de dents",
+      "douleurs dentaires"
+    ],
+    "description": "Faire bouillir pendant dix minutes dans un demi-litre de vin rouge ou blanc une bonne poignée de feuilles de lierre grimpant (à défaut 4 à 5 têtes de pavot), y ajouter une forte pincée de sel de cuisine, passer et se gargariser la bouche du côté où les dents font mal. Autre : se gargariser avec un verre de vinaigre bien salé.",
+    "preparation": "Méthode 1 : faire bouillir dans un demi-litre de vin rouge ou blanc une bonne poignée de lierre grimpant (ou 4-5 têtes de pavot) pendant 10 minutes + pincée de sel de cuisine. Passer et gargariser du côté douloureux, cracher après quelques minutes. Cet élixir peut se conserver en bouteille. Méthode 2 : se gargariser avec un verre de vinaigre bien salé."
+  },
+  {
+    "remede": "Limonade au citron (vers des enfants)",
+    "symptomes": [
+      "vers intestinaux chez les enfants",
+      "oxyures",
+      "ascaris"
+    ],
+    "description": "Les vers que l'on rencontre le plus fréquemment chez les enfants sont les oxyures (moins d'un centimètre) et l'ascaride lombricole. Signes : cercle bleuâtre autour des paupières, démangeaisons au nez et à l'anus, pâleur, amaigrissement, haleine fétide.",
+    "preparation": "Limonade vermifuge : dans un verre ordinaire, deux cuillerées à bouche d'eau fraîche, un petit morceau de sucre et le jus d'un citron. Remuer ensemble. Donner cette limonade à jeun, au biberon ou à la cuillère. Autre : 5 grammes de poudre de tanaisie macérés 12 heures dans un litre d'eau, deux cuillerées à bouche toutes les heures pendant la journée."
+  },
+  {
+    "remede": "Salsepareille composée et tisane dépurative (vices du sang)",
+    "symptomes": [
+      "vices du sang",
+      "sang impur",
+      "maladies héréditaires",
+      "syphilis",
+      "rhumatisme",
+      "goutte",
+      "épilepsie",
+      "phtisie"
+    ],
+    "description": "La base de la santé repose sur la purification du sang. Le rhumatisme, la goutte, la gravelle, la chorée, l'épilepsie, la folie, la syphilis, la phtisie passent dans le sang. Dans toutes ces maladies, il faut toujours chercher une cause dans le sang. Le plus puissant des dépuratifs est le mélange de plantes dépuratives.",
+    "preparation": "Tisane dépurative (salsepareille composée) : préparer chaque matin la quantité nécessaire pour la journée. La tisane dépurative guérit en peu de jours toutes les maladies de la peau en faisant disparaître les vices du sang."
+  },
+  {
+    "remede": "Bourrache, serpolet, chou et poireaux (fluxion de poitrine, pleurésie)",
+    "symptomes": [
+      "fluxion de poitrine",
+      "pleurésie",
+      "point de côté",
+      "refroidissements"
+    ],
+    "description": "Faire transpirer le malade pendant au moins une demi-heure avec tisane de bourrache, fleurs de sureau. Appliquer un cataplasme de feuilles de chou blanc et de poireaux cuits à la poêle avec du fort vinaigre sur le côté malade. Frotter vivement les côtés du malade avec des fers à repasser bien chauds.",
+    "preparation": "1° Faire transpirer le malade avec une forte tisane de bourrache mélangée si possible avec du serpolet (préparer dans du vin au lieu d'eau). 2° Faire cuire des feuilles de chou blanc et des poireaux dans de la poêle avec du fort vinaigre, appliquer sur le côté malade. 3° Entourer les reins avec un drap chaud ou plusieurs serviettes. 4° Frotter vivement les côtés du malade avec deux fers à repasser bien chauds (ou à défaut deux pierres chaudes enveloppées dans des linges) pour faire disparaître les points douloureux."
+  },
+  {
+    "remede": "Absinthe, aunée, bourrache, camomille vétérinaires (maladies animaux)",
+    "symptomes": [
+      "cachexie des moutons",
+      "indigestions animaux",
+      "coliques des animaux",
+      "diarrhées animaux",
+      "gale des animaux",
+      "dart et maladies de peau animaux"
+    ],
+    "description": "En général, toutes les plantes utilisées pour les personnes servent également pour les animaux dans les mêmes maladies. L'absinthe excite l'appétit et facilite la digestion chez tous les animaux. La camomille romaine est employée pour augmenter les forces digestives dans les coliques venteuses.",
+    "preparation": "Absinthe : infusion d'une poignée pour deux litres d'eau dans la cachexie des moutons et pour favoriser la digestion. Aunée (décoction concentrée) : contre la gale du chien et du mouton. Bourrache : infusion 50 grammes dans deux litres d'eau comme breuvage adoucissant. Camomille romaine : tonique digestif pour grands animaux. Huile de camomille (frictions) : 50 g de fleurs + 400 g d'huile d'olive, infuser 8 jours, pour les rhumatismes des chiens."
+  },
+  {
+    "remede": "Gentiane et centaurée (breuvage tonique vétérinaire)",
+    "symptomes": [
+      "faiblesse des animaux",
+      "manque d'appétit des animaux",
+      "épuisement des animaux",
+      "coliques gazeuses animaux"
+    ],
+    "description": "La gentiane, étant stimulante et tonique, est un médicament très utile en médecine vétérinaire. La poudre de gentiane donne de l'appétit aux chevaux, moutons épuisés par le fourrage. La dose est de 100 à 150 grammes pour deux litres d'eau pour les grands animaux.",
+    "preparation": "Breuvage tonique : gentiane 50 grammes, petite centaurée 20 grammes, absinthe 20 grammes. Faire infuser huit jours dans un litre d'eau, passer, donner tiède à boire. Coriandre et carvi : mélanger leurs semences avec l'avoine des chevaux pour donner de l'appétit. Breuvage cordial : graines de carvi et d'anis en poudre 30 grammes, gingembre 15 grammes, dans un demi-litre de vin chaud."
+  },
+  {
+    "remede": "Gingembre (coliques animaux)",
+    "symptomes": [
+      "coliques des animaux",
+      "tranchées des animaux",
+      "bronchites animaux"
+    ],
+    "description": "Stimulant très énergique employé dans les coliques et les tranchées des animaux. Il agit promptement sur la muqueuse. Aussi employé dans les bronchites des animaux.",
+    "preparation": "Poudre de gingembre : 10 à 50 grammes selon la force de l'animal. Pour le cheval : 50 grammes dans un litre d'eau ou un litre de vin. Faire boire pur ou mélanger avec une provende."
+  },
+  {
+    "remede": "Eau phénique et pommade soufrée (gale des moutons)",
+    "symptomes": [
+      "gale des moutons",
+      "gale des animaux"
+    ],
+    "description": "Commencer par couper la laine bien ras. Laver avec de l'eau de savon à l'aide d'une brosse propre. Puis laver avec de l'acide phénique et de l'eau (20 grammes environ d'acide phénique pour un litre d'eau). Dans plusieurs régions, on se sert d'une pommade composée d'une partie de soufre et quatre parties de saindoux.",
+    "preparation": "1° Couper la laine bien ras. 2° Laver avec eau de savon et brosse propre. 3° Laver avec acide phénique dilué (20 g pour un litre d'eau). Quand tout le corps est atteint, procéder par parties. Alternative : pommade de soufre (1 partie de soufre + 4 parties de saindoux). Tenir les animaux galeux à part."
+  },
+  {
+    "remede": "Alun (muguet ou chancre des agneaux)",
+    "symptomes": [
+      "muguet des agneaux",
+      "chancre buccal des jeunes animaux"
+    ],
+    "description": "Maladie des jeunes agneaux à la mamelle. Se manifeste par des petites plaques blanches à la langue et aux lèvres qui les empêchent de téter. Gargariser avec une dissolution d'alun au moyen d'un tampon que l'on promène sur tous les endroits malades.",
+    "preparation": "Préparer une dissolution d'alun dans de l'eau. Promener un tampon imbibé de cette solution sur tous les endroits malades. Quand les agneaux ne peuvent plus téter à cause de la maladie, les nourrir avec de l'eau et de la farine."
+  },
+  {
+    "remede": "Éther ou esprit de nitre (coliques du cheval)",
+    "symptomes": [
+      "coliques du cheval"
+    ],
+    "description": "Un bon remède pour les coliques du cheval : l'éther. On en met 14 grammes dans un demi-litre d'eau chaude sucrée qu'on fait prendre par moitié en l'espace de trois quarts d'heure. En l'absence d'éther, 50 grammes d'esprit de nitre sucré dans de l'eau chaude avec un égal succès.",
+    "preparation": "Éther : 14 grammes dans un demi-litre d'eau chaude sucrée, faire boire par moitié en 45 minutes. Alternative : 50 grammes d'esprit de nitre sucré dans de l'eau chaude. Faute de mieux, l'eau chaude à l'intérieur et à l'extérieur constitue un traitement convenable."
+  },
+  {
+    "remede": "Liniment d'huile, ammoniaque et térébenthine (toux des chevaux)",
+    "symptomes": [
+      "toux des chevaux"
+    ],
+    "description": "Contre la toux résultant d'un froid pris par les chevaux, un liniment ou embrocation très efficace.",
+    "preparation": "Mélanger parties égales d'huile d'olive, d'ammoniaque et d'essence de térébenthine. Frotter vigoureusement le cheval deux fois par jour avec ce mélange le long de la trachée-artère. Mettre l'animal dans une écurie très propre, bien fraîche et bien aérée."
+  },
+  {
+    "remede": "Décoction de stramonine ou feuilles de noyer (mouches sur les chevaux)",
+    "symptomes": [
+      "protection chevaux contre les mouches et taons"
+    ],
+    "description": "Pour préserver les chevaux à la campagne contre les mouches qui les tourmentent, employer une décoction de stramoine ou une décoction de feuilles de noyer.",
+    "preparation": "Stramoine : faire bouillir une partie de feuilles et de tiges pour trois parties d'eau pendant 18 à 20 minutes. Appliquer sur la face interne des membres, le ventre et le pourtour de l'anus une fois par jour. Feuilles de noyer : laver les chevaux avec une décoction de feuilles de noyer, ou onctions légères d'huile de laurier. Laurier dans saindoux : faire bouillir une bonne poignée de feuilles de laurier dans un kilo de saindoux, frotter le corps du cheval avec ce saindoux avant le travail."
+  },
+  {
+    "remede": "Teinture de quinquina (maladies des jeunes chiens)",
+    "symptomes": [
+      "maladie des jeunes chiens",
+      "yeux chassieux",
+      "éternuements des chiens",
+      "toux sèche des chiens"
+    ],
+    "description": "Tristesse, diminution d'appétit, yeux chassieux, jetage par le nez, éternuements. Soir et matin faire prendre une cuillerée de teinture de quinquina dans un quart de litre de vin rouge. Dans certaines régions, on coupe ras le poil du haut de la tête entre les deux oreilles et on y place un emplâtre de poix de Bourgogne.",
+    "preparation": "Soir et matin : une cuillerée de teinture de quinquina dans un quart de litre de vin rouge, jusqu'à parfaite guérison. Préventif : deux ou trois fois par semaine, une cuillerée à bouche de fleur de soufre délayée dans du lait (un quart de litre environ). Alternative régionale : couper ras le poil entre les deux oreilles, appliquer un emplâtre de poix de Bourgogne (pas trop chaud), laisser tomber seul."
+  },
+  {
+    "remede": "Sel et herbes sèches (poules constipées)",
+    "symptomes": [
+      "constipation des poules",
+      "croupion des poules",
+      "diarrhée des poules",
+      "pépie des poules",
+      "sortie du fondement des poules"
+    ],
+    "description": "Maladies principales des poules. Constipation : la salade, l'oseille, le pourpier, les épinards et le son mouillé suffisent généralement. Croupion : ouvrir la tumeur, presser, laver avec eau vinaigrée, enduire de pommade camphrée.",
+    "preparation": "Constipation : salade, oseille, pourpier, épinards, son mouillé et eau en abondance. Croupion : ouvrir la tumeur avec un canif, presser pour extraire le pus, laver 3 fois par jour avec eau vinaigrée ou salée, enduire de pommade camphrée. Nourrir avec son mouillé mêlé de salade hachée. Diarrhée : pain trempé dans vin ou cidre, aliments secs. Pépie : enlever avec une forte épingle la membrane blanche au bout de la langue, cautériser avec du vinaigre. Sortie du fondement : laver avec eau de guimauve additionnée de quelques gouttes de laudanum, faire rentrer le fondement, mettre la poule dans un endroit obscur, nourrir de grains et son mouillé."
+  },
+  {
+    "remede": "Son mouillé et remèdes selon maladie (vaches et veaux)",
+    "symptomes": [
+      "indigestion des vaches",
+      "diarrhée des veaux",
+      "météorisation des bovins",
+      "fièvre aphteuse",
+      "coliques des vaches"
+    ],
+    "description": "Pour la diarrhée des veaux : diète puis oeuf cru ou infusion de menthe poivrée avec magnésie. Pour l'indigestion des vaches : faire avaler un litre de vin chaud avec plantes aromatiques. Fièvre aphteuse : laver la bouche avec tisane d'orge, miel et vinaigre. Les paysans de Sardaigne emploient le serpolet bouilli pour la fièvre aphteuse.",
+    "preparation": "Veau malade (diète) : eau tiède un litre, farine une petite poignée, miel 40-50 grammes. Diarrhée du veau : demi-verre de vin sucré tiède à jeun, ou infusion de menthe poivrée avec 20 g de magnésie, ou oeuf cru matin et soir. Indigestion de la vache : faire avaler un litre de vin chaud bouilli avec thym, serpolet, verveine, sauge et cannelle. Fièvre aphteuse : laver fréquemment la bouche avec tisane d'orge, miel et vinaigre. Traitement sarde : faire bouillir une brassée de serpolet dans un chaudron, garnir la bouche des bœufs avec ce thym et envelopper les pieds de chiffons arrosés de cette eau. Coliques : lavements de graines de lin ou de mauve, frictions du ventre avec fers à repasser chauds."
+  },
+  {
+    "remede": "Camphre évaporé (chasse les moustiques)",
+    "symptomes": [
+      "moustiques",
+      "insectes volants (chambre)"
+    ],
+    "description": "Prendre un morceau de camphre de la grosseur d'une noix et le faire évaporer en le plaçant sur une plaque de métal au-dessus d'une lampe, sans le faire brûler. Les vapeurs remplissent la chambre et chassent les moustiques qui ne reviendront plus même si la fenêtre est ouverte.",
+    "preparation": "Placer un morceau de camphre (taille d'une noix) sur une plaque de métal au-dessus d'une lampe. Faire évaporer sans brûler. Les vapeurs ainsi produites chassent les moustiques durablement."
+  },
+  {
+    "remede": "Pétrole et essence de lavande (insecticide contre punaises, puces)",
+    "symptomes": [
+      "punaises",
+      "puces",
+      "insectes parasites"
+    ],
+    "description": "Un insecticide efficace et peu coûteux : dans un litre de pétrole ordinaire, ajouter pour 50 centimes d'essence de lavande. Badigeonner les lits et les meubles, humidifier légèrement tous les endroits fréquentés par les insectes, fermer portes et fenêtres pendant 4 à 5 heures.",
+    "preparation": "Mélanger un litre de pétrole avec 50 centimes d'essence de lavande (huile d'aspic). Agiter pour que le mélange soit complet. Avec un morceau d'étoffe ou un pinceau, badigeonner les lits et meubles. Humidifier légèrement tous les endroits fréquentés par les insectes. Fermer portes et fenêtres pendant 4 à 5 heures. Résultat : appartement parfumé à la lavande et tous les insectes nuisibles détruits."
+  },
+  {
+    "remede": "Feuilles de noyer et menthe (préservation contre punaises)",
+    "symptomes": [
+      "punaises",
+      "puces dans le lit"
+    ],
+    "description": "Pour se préserver des punaises et des puces, mettre dans le lit des feuilles de noyer et de menthe. L'odeur les éloigne rapidement.",
+    "preparation": "Placer des feuilles de noyer et de menthe dans le lit. L'odeur éloigne les punaises et puces."
+  },
+  {
+    "remede": "Acide phénique dilué (puces des chiens)",
+    "symptomes": [
+      "puces des chiens",
+      "maladies de peau des chiens"
+    ],
+    "description": "Pour débarrasser les chiens des puces, les laver de temps en temps avec de l'eau contenant un centième environ d'acide phénique et un dixième d'alcool. Ce moyen est souverain et évite aussi les maladies de la peau fréquentes chez ces animaux.",
+    "preparation": "Laver le chien avec de l'eau contenant 1% d'acide phénique et 10% d'alcool. Répéter de temps en temps."
+  },
+  {
+    "remede": "Boisson économique d'été (réglisse, vinaigre, eau-de-vie)",
+    "symptomes": [
+      "soif en été",
+      "déshydratation en été"
+    ],
+    "description": "Boisson économique et rafraîchissante pour l'été, supérieure à l'eau pure et aux mauvaises bières.",
+    "preparation": "Faire bouillir pendant quelques minutes dans un litre d'eau 5 grammes de racines de réglisse. Y ajouter ensuite quelques grammes de vinaigre et 15 grammes d'eau-de-vie. Filtrer ensuite dans un entonnoir bouché avec un bouquet de lavande, de mélisse ou de sauge. Boire de suite ou conserver."
+  },
+  {
+    "remede": "Eau sédative (usages multiples, excitant et révulsif)",
+    "symptomes": [
+      "douleurs diverses",
+      "contusions",
+      "usage révulsif et excitant"
+    ],
+    "description": "L'eau sédative est très employée en lotion, en compresses ou frictions, comme excitante, révulsive, rubéfiante. On peut toujours diminuer son énergie en la coupant avec de l'eau pour les personnes à la peau fine.",
+    "preparation": "Mettre une demi-poignée de sel de cuisine dans un demi-verre d'eau, laisser fondre. Quand l'eau est redevenue limpide, verser un petit verre à liqueur plein d'ammoniaque dans un litre d'eau, puis ajouter un quart de verre à liqueur d'alcool camphré. Agiter et boucher. Mêler ensuite un demi-verre d'eau salée, agiter encore et achever de remplir avec de l'eau ordinaire. Employer en lotion, compresses ou frictions."
+  },
+  {
+    "remede": "Menthe sauvage ou camomille (préservation des grains contre les souris)",
+    "symptomes": [
+      "souris dans les greniers",
+      "rongeurs dans les provisions"
+    ],
+    "description": "Mettre au fond et au haut de chaque sac, vers le centre, trois ou quatre tiges de menthe sauvage en place et les feuilles par-dessus. Les souris n'approchent pas. On peut remplacer la menthe par la camomille sauvage.",
+    "preparation": "Placer 3 à 4 tiges de menthe sauvage (avec feuilles) au fond et au haut de chaque sac de grain. Ou placer quelques feuilles vertes ou sèches de menthe ou de camomille sauvage sur les aliments à conserver. Les rongeurs n'approcheront pas."
+  },
+  {
+    "remede": "Vinaigre et blanc d'oeuf (conservation générale et urgences domestiques)",
+    "symptomes": [
+      "feu de pétrole",
+      "taches sur linge",
+      "eau impure"
+    ],
+    "description": "Conseils pratiques essentiels : le lait éteint instantanément le pétrole enflammé (aussi la farine ou le sable). L'eau bouillante enlève les taches de fruits. L'alun (10 grammes dans un seau) clarifie l'eau trouble. Le jus de tomate mûre enlève l'encre et les taches de rouille.",
+    "preparation": "Feu de pétrole : jeter du lait, de la farine ou du sable (jamais d'eau). Taches de fruits sur linge : verser eau bouillante sur la tache comme à travers une passoire. Taches de rouille et encre sur linge et mains : appliquer jus de tomate mûre. Eau trouble à clarifier : mettre 10 grammes d'alun dans un seau d'eau."
+  },
+  {
+    "remede": "Alcoolisme (ivresse aiguë et chronique)",
+    "symptomes": [
+      "ivresse aiguë",
+      "ivrognerie chronique",
+      "delirium tremens"
+    ],
+    "description": "L'alcool fait plus de victimes que toutes les épidémies réunies. En cas d'ivresse accidentelle : faire vomir immédiatement en mettant le doigt au gosier. Pour l'ivrognerie chronique, l'alcool altère tous les organes, l'intelligence diminue, le caractère s'aigrit, le visage devient couperosé.",
+    "preparation": "Ivresse aiguë : faire vomir immédiatement (doigt au gosier), puis boire un bol de thé ou de camomille. Si insuffisant : verre d'eau sucrée avec 8 à 10 gouttes d'ammoniaque liquide. Ou un grand verre de café très fort sucré mais très salé. Delirium tremens : traitement médical indispensable."
+  },
+  {
+    "remede": "Ampoules (cloques par frottement)",
+    "symptomes": [
+      "ampoules",
+      "cloques cutanées",
+      "frottements répétés"
+    ],
+    "description": "À la suite de frottements réitérés sur une certaine étendue de peau, l'épiderme se soulève et il se forme une cloche de liquide. Ne pas enlever la peau.",
+    "preparation": "Ne pas crever ni enlever la peau de l'ampoule. Se contenter de percer avec une aiguille à l'aide de laquelle on passe un morceau de fil de soie ou de coton qu'on laisse en place jusqu'à complète guérison."
+  },
+  {
+    "remede": "Asphyxie (premiers soins - noyé, pendu, intoxication au charbon)",
+    "symptomes": [
+      "asphyxie",
+      "noyade",
+      "pendaison",
+      "intoxication au gaz",
+      "arrêt respiratoire"
+    ],
+    "description": "L'asphyxie se produit toutes les fois que l'air ne peut pénétrer dans les poumons en quantité suffisante. Premiers soins avant l'arrivée du médecin : déshabiller, placer en position adéquate, maintenir la bouche ouverte, ramener la chaleur par frictions, pratiquer la respiration artificielle.",
+    "preparation": "1° Déshabiller rapidement, placer sur un lit tête légèrement inclinée en arrière, épaules légèrement élevées. 2° Ouvrir la bouche, desserrer les dents si nécessaire, dégager les mucosités avec une plume. 3° Frictions du corps avec linges chauds ou alcool camphré, eau de mélisse, vinaigre aromatique. 4° Respiration artificielle méthode Sylvestre : saisir les bras du patient, les élever pendant 2 secondes (inspire), les abaisser et presser contre les côtés pendant 2 secondes (expire). Répéter longuement. Noyé : le coucher sur le dos légèrement incliné à droite, dégager la bouche, respiration artificielle. Ne jamais suspendre par les pieds. Intoxication au charbon : ouvrir portes et fenêtres, exposer à l'air, frictions, respiration artificielle, compresses de vinaigre aromatique sous le nez."
+  },
+  {
+    "remede": "Cheveux (chute des) et soins du cuir chevelu",
+    "symptomes": [
+      "chute des cheveux",
+      "calvitie",
+      "pellicules",
+      "dartres du cuir chevelu"
+    ],
+    "description": "La chute des cheveux est souvent précédée de pellicules qui sont bientôt suivies de dartres. Elle peut suivre une maladie infectieuse. Pour remédier, voir l'hygiène de la tête et les lotions appropriées.",
+    "preparation": "Décoction de sauge (100 g pour un litre d'eau) pour laver le cuir chevelu. Pour les pellicules et dartres : lotions avec tisane de sauge ou d'écorce de chêne. Lotion stimulante pour les cheveux : eau de quinine (voir pharmacien). Bien se brosser les cheveux quotidiennement."
+  },
+  {
+    "remede": "Hernies et efforts",
+    "symptomes": [
+      "hernies",
+      "descente"
+    ],
+    "description": "Grosseur formée par la sortie d'un viscère hors de la cavité qui le renferme, à la suite d'un effort et par suite de la rupture des enveloppes naturelles. Le seul moyen de traitement est de porter un bandage contentif approprié.",
+    "preparation": "Porter un bandage contentif approprié à la hernie. Graisser de temps à autre la hernie avec une pommade herniaire appropriée. Éviter tout effort violent."
+  },
+  {
+    "remede": "Névralgies (douleurs nerveuses)",
+    "symptomes": [
+      "névralgies",
+      "névralgie faciale",
+      "douleurs nerveuses persistantes"
+    ],
+    "description": "Douleur suivant le trajet d'un nerf, continue et paroxystique, avec des points fixes, accompagnée de divers troubles. Si elles sont faciales, s'assurer qu'elles ne sont pas occasionnées par une dent cariée, dans lequel cas il faudrait faire soigner la dent par un dentiste.",
+    "preparation": "Pour les névralgies faciales : vérifier d'abord l'état dentaire. Appliquer un calmant externe sur la zone douloureuse (eau sédative, calme-douleurs). En interne : valériane en poudre (2 à 5 g) dans un peu de miel. Tisane de mélisse ou de tilleul pour calmer le système nerveux."
+  },
+  {
+    "remede": "Maladies secrètes et contagieuses (vénériennes)",
+    "symptomes": [
+      "blennorrhagie",
+      "gonorrhée",
+      "urétrite",
+      "syphilis",
+      "chancres",
+      "écoulements"
+    ],
+    "description": "Maladies à caractère confidentiel. Toutes les personnes atteintes de ces maladies (blennorrhagie, écoulement, gonorrhée, urétrite, chaud-de-pisse, syphilis, ulcères syphilitiques, excoriations, chancres mous, etc.) nécessitent un traitement spécifique et confidentiel.",
+    "preparation": "La salsepareille composée en décoction forte (70 g par litre d'eau, réduction de moitié) est le dépuratif le plus recommandé dans ces cas, particulièrement pour la syphilis. La saponaire en décoction est aussi mentionnée pour la syphilis. Traitement à suivre strictement et prolongé. Consultation médicale indispensable."
+  },
+  {
+    "remede": "Appendicite (traitement préventif)",
+    "symptomes": [
+      "appendicite",
+      "pesanteurs intestinales",
+      "alternances diarrhée-constipation",
+      "ballonnements côté droit"
+    ],
+    "description": "L'appendicite est causée par l'inflammation de l'appendice. Toute personne qui sentira des pesanteurs d'intestin, des alternatives de diarrhée et de constipation, des vomissements bilieux, des ballonnements accompagnés d'une douleur localisée du côté droit, devra se considérer comme menacée d'appendicite.",
+    "preparation": "Traitement préventif : éviter les mets épicés et la charcuterie, manger peu de viande et préférer les viandes blanches. Prendre après chaque repas une tasse d'infusion de camomille. Matin et soir prendre des Graines de Longue-Vie délayées dans un peu d'eau. Veiller spécialement à la constipation : tisane de Thé des Chartreux le soir de temps en temps."
+  },
+  {
+    "remede": "Gargarisme de ronces ou serpolet avec alun (maux de gorge, gargarismes)",
+    "symptomes": [
+      "maux de gorge",
+      "inflammation de la gorge",
+      "ulcères de la bouche",
+      "gargarismes"
+    ],
+    "description": "Remède de base pour les gargarismes : faire bouillir une poignée de ronces ou de serpolet dans un demi-litre d'eau pendant cinq minutes, passer la tisane, ajouter une cuillerée à café d'alun en poudre et une cuillerée à café de sel de cuisine par verre de tisane. Se gargariser trois ou quatre fois par jour.",
+    "preparation": "Faire bouillir une poignée de ronces ou de serpolet dans un demi-litre d'eau pendant 5 minutes. Passer. Ajouter par verre de tisane : une cuillerée à café d'alun en poudre + une cuillerée à café de sel de cuisine. Se gargariser 3 à 4 fois par jour. Pour les inflammations de gorge d'orge : faire bouillir de l'orge longtemps, utiliser comme gargarisme avec un peu de miel."
+  },
+  {
+    "remede": "Quassia amara (piqûres de cousins, moustiques, mouches)",
+    "symptomes": [
+      "piqûres de moustiques",
+      "piqûres de cousins",
+      "piqûres de mouches"
+    ],
+    "description": "Pour se préserver des piqûres de moustiques et cousins à la campagne, se laver avec de l'eau où l'on a fait bouillir un peu de bois de quassia amara. Pour chasser les mouches et moustiques dans les appartements, faire brûler quelques copeaux de quassia amara.",
+    "preparation": "Lotion anti-moustiques : faire bouillir du bois de quassia amara dans de l'eau, se laver avec cette décoction. Pour les animaux : les laver avec le même produit à la brosse, pinceau ou éponge. Pour chasser les mouches dans les appartements : faire brûler quelques copeaux de quassia amara. Autre : décoction de feuilles de noyer avec du vinaigre - un seul lavage préserve une journée."
+  },
+  {
+    "remede": "Essence de térébenthine (désinfection des fosses, éviers, mauvaises odeurs)",
+    "symptomes": [
+      "mauvaises odeurs",
+      "fosses d'aisances",
+      "désinfection"
+    ],
+    "description": "L'essence de térébenthine constitue un désinfectant original et peu coûteux, employé avec succès depuis plusieurs années. Une seule goutte dans les fosses d'aisances de temps en temps suffit pour faire disparaître toute mauvaise odeur. Également efficace pour le nettoyage des éviers.",
+    "preparation": "Quelques gouttes d'essence de térébenthine jetées dans les fosses d'aisances de temps en temps. Pour les éviers et ruisseaux : quelques gouttes dans un seau d'eau, un lavage suffit pour l'assainissement."
+  },
+  {
+    "remede": "Emplâtre de poix de Bourgogne (vieux rhumes, maladies chroniques des poumons)",
+    "symptomes": [
+      "vieux rhumes",
+      "affections chroniques des poumons",
+      "bronchites chroniques",
+      "point de côté"
+    ],
+    "description": "L'emplâtre de poix de Bourgogne (Emplâtre des Chartreux) est le plus ancien et le plus efficace, opérant sans douleurs et sans produire de cloques, préparé selon l'ancienne formule, avec plus de cent ans de succès. S'applique sur la partie souffrante selon la maladie.",
+    "preparation": "Enlever d'abord le taffetas qui le couvre. Faire chauffer l'emplâtre jusqu'à fusion et l'appliquer suffisamment chaud : sur l'estomac pour les maux d'estomac ; entre les épaules pour les maux de tête et la migraine ; sur les reins pour le lumbago ; sur le point de côté pour les refroidissements ; sur la poitrine pour les rhumes, catarrhe, bronchite. Laisser jusqu'à ce qu'il tombe seul."
+  },
+  {
+    "remede": "Bains médicamenteux (alcalin, aromatique, sulfureux, gélatineux, sédatif)",
+    "symptomes": [
+      "maladies de peau",
+      "rhumatismes",
+      "nervosité",
+      "affaiblissement général"
+    ],
+    "description": "Les bains médicamenteux sont des traitements puissants. La température des bains doit être en moyenne de 35 à 40°. Ne pas administrer dans les accès de fièvre ni dans la sueur. Attendre que la digestion soit terminée (5 heures après le repas).",
+    "preparation": "Bain alcalin : dissoudre 500 g de sous-carbonate de soude dans le bain. Bain aromatique : 500 g de plantes aromatiques ou de tilleul enveloppés dans un linge, plongés dans le bain. Bain de Barèges (sulfureux) : 120 à 125 g de sulfure de potasse ou de soufre dans l'eau du bain. Bain gélatineux : ajouter 500 g de gélatine concassée à un bain simple. Bain de pieds à la moutarde : délayer 130 g de farine de moutarde dans eau à peine tiède, ajouter eau chaude progressivement (jamais de vinaigre). Bain sédatif Raspail : verser dans le bain 20 g d'alcool camphré, 200 g d'ammoniaque et quelques grammes de sel gris."
+  },
+  {
+    "remede": "Cataplasme de farine de lin (méthode générale)",
+    "symptomes": [
+      "inflammations locales",
+      "abcès",
+      "furoncles",
+      "douleurs à localiser"
+    ],
+    "description": "Le cataplasme de farine de lin est le cataplasme émollient de base. Il s'applique chaud sur la partie à traiter. On peut lui ajouter selon les cas de l'huile camphrée, du laudanum, de l'extrait de saturne ou du baume tranquille.",
+    "preparation": "Délayer de la farine de lin dans l'eau et faire bouillir jusqu'à obtention d'une bouillie. Placer le cataplasme entre deux mousselinets ou deux linges fins et appliquer sur l'endroit indiqué. Recouvrir d'un morceau de flanelle ou de laine et de taffetas gommé. Si une addition est nécessaire (huile camphrée, laudanum, extrait de saturne, baume tranquille), la verser sur la surface du cataplasme au moment de l'appliquer. Renouveler régulièrement sans laisser refroidir."
+  },
+  {
+    "remede": "Douce-amère",
+    "symptomes": [
+      "dartres",
+      "eczéma",
+      "farcin (chevaux)",
+      "gale animaux",
+      "dysenteries avec douleurs intestinales"
+    ],
+    "description": "Très conseillée jadis pour les dartres et l'eczéma, on doit l'abandonner aujourd'hui car elle contient des principes vénéneux. En médecine vétérinaire, les infusions des tiges de douce-amère sont prescrites avec avantage dans le farcin, la gale et les dartres anciennes des animaux, ainsi que dans les dysenteries avec douleurs intestinales.",
+    "preparation": "Usage humain : déconseillé (principes vénéneux reconnus). Usage vétérinaire : infusions des tiges pour les animaux atteints de farcin, gale, dartres anciennes et dysenteries intestinales."
+  },
+  {
+    "remede": "Ellébore noir",
+    "symptomes": [
+      "constipation sévère (historiquement comme émétique et purgatif)"
+    ],
+    "description": "C'est un poison violent, il faut donc l'éviter. Divers auteurs le conseillaient comme émétique et purgatif, mais le livre déconseille fortement son usage.",
+    "preparation": "À éviter absolument. C'est un poison violent. Dans toutes les maladies où on l'employait, il est remplacé par des plantes sans danger."
+  },
+  {
+    "remede": "Navet et Rave",
+    "symptomes": [
+      "inflammation de la poitrine",
+      "inflammation des intestins",
+      "alimentation des convalescents"
+    ],
+    "description": "Excellent rafraîchissant et émollient. On en fait un excellent potage en le faisant cuire dans du lait avec un peu de beurre frais. Ce potage est le meilleur qu'on puisse donner aux personnes atteintes d'inflammation de la poitrine et des intestins.",
+    "preparation": "Potage émollient : faire cuire le navet dans du lait avec un peu de beurre frais. Donner aux personnes atteintes d'inflammation de la poitrine et des intestins."
+  },
+  {
+    "remede": "Rue fétide",
+    "symptomes": [
+      "constipation (en lavement)",
+      "poux et vermine (usage externe)"
+    ],
+    "description": "La rue est un poison. Usage déconseillé sauf dans trois cas précis : en lavement comme purgatif, pour détruire les poux et autres vermines, et les feuilles semées dans les greniers chassent les rats. Il est faux de prétendre qu'elle fait avorter : elle tue la mère avant de tuer l'enfant.",
+    "preparation": "1° En lavement comme purgatif uniquement : infusion 40 grammes par litre d'eau. 2° Pour détruire les poux et vermines : infusion 40 grammes par litre d'eau en lotion externe. 3° Feuilles semées dans les greniers pour chasser les rats. Ne jamais prendre en usage interne autrement."
+  },
+  {
+    "remede": "Séneçon vulgaire",
+    "symptomes": [
+      "fièvres",
+      "engorgements des seins (historiquement)",
+      "hémorroïdes (historiquement)",
+      "goutte (historiquement)"
+    ],
+    "description": "Le séneçon dont les petits oiseaux sont si friands était très employé jadis contre les engorgements des seins, les hémorroïdes et la goutte. Aujourd'hui, il est remplacé par les feuilles de bouillon blanc dans ces usages. La vraie propriété du séneçon est de guérir les fièvres.",
+    "preparation": "Pour les fièvres : employer en infusion ou décoction. Pour les autres usages historiques (hémorroïdes, engorgements), préférer les feuilles de bouillon blanc qui sont plus efficaces."
+  },
+  {
+    "remede": "Tabac (usages médicaux et précautions)",
+    "symptomes": [
+      "coliques des animaux (en lavement)",
+      "poux et puces des animaux (lotion externe)",
+      "dartres et gale animaux (lotion externe)"
+    ],
+    "description": "Le tabac est un poison qui agit sur tout le système nerveux, prédispose aux congestions cérébrales, fait perdre la mémoire et donne une mauvaise haleine. Son usage modéré peut être toléré mais son abus est condamnable. En médecine vétérinaire, la décoction de tabac ne peut s'employer à l'intérieur que comme lavement contre les coliques. À l'extérieur pour tuer les poux et puces de tous les animaux et contre les dartres et la gale.",
+    "preparation": "Usage vétérinaire uniquement - Usage interne : lavement contre les coliques des animaux. Usage externe pour la gale et dartres des animaux : 100 g de feuilles de tabac, 200 g de sel de cuisine, 100 g de savon noir, 3 litres d'eau. Faire bouillir le tabac 5 minutes, passer, mélanger avec le sel et le savon. Lotionner toutes les parties atteintes au moins deux fois par jour."
+  },
+  {
+    "remede": "Age critique - Ménopause (tisanes de sauge, menthe, tilleul, fleurs d'oranger)",
+    "symptomes": [
+      "ménopause",
+      "age critique",
+      "retour d'âge",
+      "suppression naturelle des règles vers 45 ans"
+    ],
+    "description": "L'âge critique ou retour d'âge est la suppression naturelle des règles, qui se produit vers 45 ans. Les femmes qui mènent une vie régulière, évitent les émotions vives et la constipation traversent cette période sans accident. Il ne faut rien exagérer.",
+    "preparation": "Quand le moment approche : éviter les fatigues excessives, prendre de légers purgatifs, des tisanes de sauge, de menthe, de tilleul, de fleurs d'oranger. Si les pertes sont trop abondantes, voir le traitement des pertes et flueurs. Tisane de sauge après chaque repas facilite les transitions hormonales."
+  },
+  {
+    "remede": "Cholërine (entérite aiguë)",
+    "symptomes": [
+      "cholérine",
+      "abattement",
+      "sueurs faciles",
+      "diarrhée abondante",
+      "nausées",
+      "hoquets",
+      "vomissements"
+    ],
+    "description": "Affection caractérisée par l'abattement, le manque de forces, des sueurs faciles, de la douleur et de la tension au creux de l'estomac et du ventre, des coliques, une diarrhée abondante, de la soif, des nausées, des hoquets et quelquefois des vomissements.",
+    "preparation": "Tenir le malade chaudement, flanelle sur le ventre. Administrer des boissons excitantes : tisane de mélisse ou de menthe, thé avec du rhum. Lavement au blanc d'œufs ou à l'amidon."
+  }
+]
